@@ -8,6 +8,13 @@
         <topicref href="topics/concepts/ibm_storediq_product_library.dita" navtitle="IBM StoredIQ product library"/>
         <topicref href="topics/concepts/Contact_cust_support.dita" navtitle="Contacting IBM StoredIQ customer support"/>
     </topicref>
+    <topicref href="topics/concepts/ibm_storediq_components.dita">
+        <topicref href="topics/concepts/solution_components.dita"/>
+        <topicref href="topics/concepts/applications_storediq.dita"/>
+    </topicref>
+    <topicref href="topics/concepts/planning_for_deployment.dita">
+        <topicref href="topics/concepts/ova_config.dita"/>
+    </topicref>
         
     
     
