@@ -10,8 +10,10 @@
         </ul>
             Or, see the Contact IBM web site at <xref href="http://www.ibm.com/contact/us/" format="html" scope="external">http://www.ibm.com/contact/us/</xref>.
         </p>
-        <p><b>IBM Knowledge Center</b></p>
-        <p>The IBM StoredIQ documentation is available in <xref href="https://www.ibm.com/support/knowledgecenter/" format="html" scope="external">IBM Knowledge Center</xref>.</p>
+        <section>
+            <title>IBM Knowledge Center</title>
+            <p>The IBM StoredIQ documentation is available in <xref href="https://www.ibm.com/support/knowledgecenter/" format="html" scope="external">IBM Knowledge Center</xref>.</p>
+        </section>
         <section>
             <title>Contacting IBM</title>
             <p>For general inquiries, call 800-IBM-4YOU (800-426-4968). To contact IBM customer service in the United States or Canada, call 1-800-IBM-SERV (1-800-426-7378).</p>
