@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>IBM StoredIQ
+        <sub><i>Deployment and Configuration Guide</i></sub>
+    </title>
+    <topicref href="topics/concepts/about_this_publication.dita" navtitle="About this publication">
+        <topicref href="topics/concepts/ibm_storediq_product_library.dita" navtitle="IBM StoredIQ product library"/>
+        <topicref href="topics/concepts/Contact_cust_support.dita" navtitle="Contacting IBM StoredIQ customer support"/>
+    </topicref>
+        
+    
+    
+</map>
