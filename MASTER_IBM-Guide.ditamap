@@ -14,6 +14,14 @@
     </topicref>
     <topicref href="topics/concepts/planning_for_deployment.dita">
         <topicref href="topics/concepts/ova_config.dita"/>
+        <topicref href="topics/concepts/network_port_reqs.dita"/>
+        <topicref href="topics/concepts/environment_sizing.dita"/>
+        <topicref href="topics/concepts/stack_provisioning_prereq.dita"/>
+        <topicref href="topics/concepts/license_usage_metrics.dita"/>
+        <topicref href="topics/concepts/security.dita"/>
+    </topicref>
+    <topicref href="topics/concepts/deploying.dita">
+        <topicref href="topics/tasks/deploy_virtual_appliances.dita"/>
     </topicref>
         
     

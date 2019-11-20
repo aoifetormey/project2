@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="deploy_on_hyperv">
+    <title>Deploying IBM StoredIQ on Microsoft Hyper-V</title>
+    <shortdesc>As an alternative to installing on an ESX server, the IBM StoredIQ gateway, data server, and applicationstack can be installed on Microsoft Hyper-V. This option is not supported for the Elasticsearch virtualappliance.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Installing IBM StoredIQ on Microsoft Hyper-V requires the use of third-party software. For the proceduredescribed here, the following software prerequisites must be met:</p>
+            <ul>
+                <li>Microsoft Hyper-V Manager must be installed on a Windows system.</li>
+                <li>7-zip for Windows or tar for the Linux operating system must be available to extract contents of theOVA.</li>
+                <li>7-zip for Windows or gunzip for the Linux operating system must be installed to decompress thevmdk.gzfile.</li>
+                <li>Microsoft Virtual Machine Converter 3.0 (Windows) or qemu-img (Linux) or must be installed to convertthe files from VMWare .vmdkfiles to Hyper-V .vhdxfiles.</li>
+            </ul>
+            <p>Microsoft Hyper-V does not support OVAs and OVFs. The virtual machine needs to be built manually.</p>
+            <p>Consider the following instructions a sample procedure. The instructions might differ depending on theversion of the third-party software.</p>
+            <p>Complete these steps for the gateway, the data server, and the AppStack:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Extract the vmdkfile from the OVA.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Download the OVA.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Extract the contents of the OVA by using 7-zip for Windows or tar for the Linux operating system.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Decompress the vmdk.gz archive by using 7-zip for Windows or gunzip for Linux.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Delete everything except the vmdkfile when the OVA extraction is complete.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Convert the VMWare .vmdk file to a Microsoft Hyper-V .vhdx file.</cmd>
+                <info>
+                    <p>For instructions about converting .vmdk files to .vhdx files, see the following links:</p>
+                    <ul>
+                        <li><xref href="https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/dn874008(v=ws.11)?redirectedfrom=MSDN" scope="external" format="html"></xref>Use Microsoft Virtual Machine Converter</li>
+                        <li><xref href="https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/virtualization/sect-virtualization-tips_and_tricks-using_qemu_img" scope="external" format="html" ></xref>Using qemu-img</li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>Build a virtual machine.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

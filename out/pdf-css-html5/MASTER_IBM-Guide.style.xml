@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <css:root xmlns:chfox="http://www.oxygenxml.com/chemistry/extensions/fop"
-    xmlns:css="http://www.w3.org/1998/CSS" xmlns:ditaarch="ditaarch" xmlns:nd="nd">
+    xmlns:css="http://www.w3.org/1998/CSS" xmlns:dita-ot="dita-ot" xmlns:ditaarch="ditaarch"
+    xmlns:nd="nd">
     <css:pages>
         <css:page>
             <css:footnote>
@@ -771,6 +772,263 @@
                                                   fix pack levels) environments. You must have a
                                                   virtual infrastructure that meets the IBM StoredIQ
                                                   hardware requirements. </div>
+                                            </div>
+                                        </div>
+                                        <div class="- map/topicref topicref" css:display="block"
+                                            css:font-weight="normal" css:margin-bottom="0.5em"
+                                            css:margin-left="2em" css:margin-top="0.5em"
+                                            href="#unique_9" type="concept">
+                                            <div class="- map/topicmeta topicmeta"
+                                                css:border-bottom-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-color="transparent"
+                                                css:border-left-style="none"
+                                                css:border-right-color="transparent"
+                                                css:border-right-style="none"
+                                                css:border-top-color="transparent"
+                                                css:border-top-style="none" css:display="block"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0"
+                                                data-topic-id="network_port_reqs">
+                                                <css:before css:display="inline"/>
+                                                <div appid="network_port_reqs"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
+                                                <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#unique_9"
+                                                  css:text-align-last="justify" href="#unique_9"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_9"/>Network and port
+                                                  requirements<css:after css:display="inline"
+                                                  css:link="#unique_9"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_9"
+                                                  /></css:after></div>
+                                                <div class="- map/shortdesc shortdesc"
+                                                  css:display="none">For proper communication, the
+                                                  IBM StoredIQ components must be able to connect to
+                                                  each other.</div>
+                                            </div>
+                                        </div>
+                                        <div class="- map/topicref topicref" css:display="block"
+                                            css:font-weight="normal" css:margin-bottom="0.5em"
+                                            css:margin-left="2em" css:margin-top="0.5em"
+                                            href="#unique_10" type="concept">
+                                            <div class="- map/topicmeta topicmeta"
+                                                css:border-bottom-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-color="transparent"
+                                                css:border-left-style="none"
+                                                css:border-right-color="transparent"
+                                                css:border-right-style="none"
+                                                css:border-top-color="transparent"
+                                                css:border-top-style="none" css:display="block"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0"
+                                                data-topic-id="environment_sizing">
+                                                <css:before css:display="inline"/>
+                                                <div appid="environment_sizing"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
+                                                <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#unique_10"
+                                                  css:text-align-last="justify" href="#unique_10"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_10"/>Environment sizing
+                                                  guidelines<css:after css:display="inline"
+                                                  css:link="#unique_10"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_10"
+                                                  /></css:after></div>
+                                                <div class="- map/shortdesc shortdesc"
+                                                  css:display="none"> To size an environment
+                                                  precisely, you must understand the factors such as
+                                                  harvest frequency, complexityof the source, and
+                                                  use case scenarios that drive application use and
+                                                  action execution. </div>
+                                            </div>
+                                        </div>
+                                        <div class="- map/topicref topicref" css:display="block"
+                                            css:font-weight="normal" css:margin-bottom="0.5em"
+                                            css:margin-left="2em" css:margin-top="0.5em"
+                                            href="#unique_11" type="concept">
+                                            <div class="- map/topicmeta topicmeta"
+                                                css:border-bottom-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-color="transparent"
+                                                css:border-left-style="none"
+                                                css:border-right-color="transparent"
+                                                css:border-right-style="none"
+                                                css:border-top-color="transparent"
+                                                css:border-top-style="none" css:display="block"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0"
+                                                data-topic-id="stack_provisioning_prereq">
+                                                <css:before css:display="inline"/>
+                                                <div appid="stack_provisioning_prereq"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
+                                                <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#unique_11"
+                                                  css:text-align-last="justify" href="#unique_11"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_11"/>Stack-provisioning
+                                                  prerequisites<css:after css:display="inline"
+                                                  css:link="#unique_11"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_11"
+                                                  /></css:after></div>
+                                                <div class="- map/shortdesc shortdesc"
+                                                  css:display="none">Before a deployment, verify
+                                                  that you meet these prerequisites.</div>
+                                            </div>
+                                        </div>
+                                        <div class="- map/topicref topicref" css:display="block"
+                                            css:font-weight="normal" css:margin-bottom="0.5em"
+                                            css:margin-left="2em" css:margin-top="0.5em"
+                                            href="#unique_12" type="concept">
+                                            <div class="- map/topicmeta topicmeta"
+                                                css:border-bottom-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-color="transparent"
+                                                css:border-left-style="none"
+                                                css:border-right-color="transparent"
+                                                css:border-right-style="none"
+                                                css:border-top-color="transparent"
+                                                css:border-top-style="none" css:display="block"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0"
+                                                data-topic-id="license_usage_metrics">
+                                                <css:before css:display="inline"/>
+                                                <div appid="license_usage_metrics"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
+                                                <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#unique_12"
+                                                  css:text-align-last="justify" href="#unique_12"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_12"/>License usage
+                                                  metrics<css:after css:display="inline"
+                                                  css:link="#unique_12"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_12"
+                                                  /></css:after></div>
+                                            </div>
+                                        </div>
+                                        <div class="- map/topicref topicref" css:display="block"
+                                            css:font-weight="normal" css:margin-bottom="0.5em"
+                                            css:margin-left="2em" css:margin-top="0.5em"
+                                            href="#unique_13" type="concept">
+                                            <div class="- map/topicmeta topicmeta"
+                                                css:border-bottom-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-color="transparent"
+                                                css:border-left-style="none"
+                                                css:border-right-color="transparent"
+                                                css:border-right-style="none"
+                                                css:border-top-color="transparent"
+                                                css:border-top-style="none" css:display="block"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0"
+                                                data-topic-id="security">
+                                                <css:before css:display="inline"/>
+                                                <div appid="security"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
+                                                <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#unique_13"
+                                                  css:text-align-last="justify" href="#unique_13"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_13"/>Security<css:after
+                                                  css:display="inline" css:link="#unique_13"
+                                                  ><css:leader pattern="."/><css:target-counter
+                                                  url-fragment="unique_13"/></css:after></div>
+                                                <div class="- map/shortdesc shortdesc"
+                                                  css:display="none">Plan and implement specific
+                                                  security measures to protect the application and
+                                                  the data it manages,especially when you deploy IBM
+                                                  StoredIQ into sensitive environments.</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="- map/topicref topicref" css:display="block"
+                                        css:font-weight="bold" css:margin-bottom="0.5em"
+                                        css:margin-left="0" css:margin-top="0.5em" href="#unique_14"
+                                        is-chapter="true" type="concept">
+                                        <div class="- map/topicmeta topicmeta"
+                                            css:border-bottom-color="transparent"
+                                            css:border-bottom-style="none"
+                                            css:border-left-color="transparent"
+                                            css:border-left-style="none"
+                                            css:border-right-color="transparent"
+                                            css:border-right-style="none"
+                                            css:border-top-color="transparent"
+                                            css:border-top-style="none" css:display="block"
+                                            css:margin-bottom="0" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="0"
+                                            css:padding-bottom="0" css:padding-left="0"
+                                            css:padding-right="0" css:padding-top="0"
+                                            data-topic-id="deploying">
+                                            <css:before css:display="inline"/>
+                                            <div appid="deploying"
+                                                class="- topic/resourceid resourceid"
+                                                css:display="none" oxy-source="topic"/>
+                                            <div class="- topic/navtitle navtitle"
+                                                css:display="block" css:link="#unique_14"
+                                                css:text-align-last="justify" href="#unique_14"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_14"><css:text>Chapter
+                                                  </css:text><css:counter name="toc-chapter"
+                                                  value="4"/><css:text>.
+                                                </css:text></css:before>Deploying IBM
+                                                  StoredIQ<css:after css:display="inline"
+                                                  css:link="#unique_14"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_14"
+                                                  /></css:after></div>
+                                            <div class="- map/shortdesc shortdesc"
+                                                css:display="none">IBM StoredIQ is a virtual
+                                                appliance that you deploy and configure in a VMWare
+                                                virtual host environment.</div>
+                                        </div>
+                                        <div class="- map/topicref topicref" css:display="block"
+                                            css:font-weight="normal" css:margin-bottom="0.5em"
+                                            css:margin-left="2em" css:margin-top="0.5em"
+                                            href="#unique_15" type="task">
+                                            <div class="- map/topicmeta topicmeta"
+                                                css:border-bottom-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-color="transparent"
+                                                css:border-left-style="none"
+                                                css:border-right-color="transparent"
+                                                css:border-right-style="none"
+                                                css:border-top-color="transparent"
+                                                css:border-top-style="none" css:display="block"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0"
+                                                data-topic-id="deploy_virtual_appliances">
+                                                <css:before css:display="inline"/>
+                                                <div appid="deploy_virtual_appliances"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
+                                                <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#unique_15"
+                                                  css:text-align-last="justify" href="#unique_15"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_15"/>Deploying the virtual
+                                                  appliances<css:after css:display="inline"
+                                                  css:link="#unique_15"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_15"
+                                                  /></css:after></div>
+                                                <div class="- map/shortdesc shortdesc"
+                                                  css:display="none"> </div>
                                             </div>
                                         </div>
                                     </div>
@@ -2310,6 +2568,1648 @@
                                                   stored.</p>
                                                 </dd>
                                             </dl>
+                                        </div>
+                                    </article>
+                                    <article aria-labelledby="ariaid-title9"
+                                        class="- topic/topic concept/concept topic concept nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_9" nd:nd-id="network_port_reqs"
+                                        oid="network_port_reqs" topicrefclass="- map/topicref ">
+                                        <h2 class="- topic/title title topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title9"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Network and port
+                                            requirements</h2>
+                                        <div class="- topic/body concept/conbody body conbody"
+                                            css:display="block" css:margin-bottom="0"
+                                            css:margin-left="0" css:margin-right="0"
+                                            css:margin-top="0">
+                                            <p class="- topic/shortdesc shortdesc"
+                                                css:display="block" css:margin-bottom="0.5em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0.5em">For proper communication, the
+                                                IBM StoredIQ components must be able to connect to
+                                                each other.</p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">You must
+                                                enable network connectivity from the following
+                                                locations:</p>
+                                            <ul class="- topic/ul ul" css:display="block"
+                                                css:list-style-type="disc"
+                                                css:margin-bottom="1.33em" css:margin-top="1.33em">
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">The data server IP address
+                                                  to the gateway IP address on port 11103</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">The gateway IP address to
+                                                  and from the application stack IP address on port
+                                                  8765 and 5432</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Ports 80, 443, and 22 from
+                                                  the administrative workstation to the application
+                                                  stack and data server IPaddresses</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Port 22 from the
+                                                  administrative workstation to the gateway IP
+                                                  address.</li>
+                                            </ul>
+                                            <section class="- topic/section section"
+                                                css:display="block" css:margin-bottom="1em"
+                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                <h3 class="- topic/title title sectiontitle"
+                                                  css:bookmark-level="3" css:display="block"
+                                                  css:font-size="1.17em" css:font-weight="bold"
+                                                  css:margin-bottom="0" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="1em"
+                                                  css:oxy-pdf-tag-type="H3"
+                                                  css:page-break-after="avoid"
+                                                  ><css:bookmark-label><css:content source="text"
+                                                  /></css:bookmark-label>TCP: port ranges for the
+                                                  firewall</h3>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">To
+                                                  ensure the network access for desktop volumes, the
+                                                  following port ranges must be open through a
+                                                  firewall.</p>
+                                                <ul class="- topic/ul ul" css:display="block"
+                                                  css:list-style-type="disc"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em">
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">21000-21004</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">21100-21101</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">21110-21130</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">21200-21204</li>
+                                                </ul>
+                                            </section>
+                                            <section class="- topic/section section"
+                                                css:display="block" css:margin-bottom="1em"
+                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                <h3 class="- topic/title title sectiontitle"
+                                                  css:bookmark-level="3" css:display="block"
+                                                  css:font-size="1.17em" css:font-weight="bold"
+                                                  css:margin-bottom="0" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="1em"
+                                                  css:oxy-pdf-tag-type="H3"
+                                                  css:page-break-after="avoid"
+                                                  ><css:bookmark-label><css:content source="text"
+                                                  /></css:bookmark-label>Default open ports</h3>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">The
+                                                  following ports are open by default on the IBM
+                                                  StoredIQ.</p>
+                                            </section>
+                                        </div>
+                                    </article>
+                                    <article aria-labelledby="ariaid-title10"
+                                        class="- topic/topic concept/concept topic concept nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_10" nd:nd-id="environment_sizing"
+                                        oid="environment_sizing" topicrefclass="- map/topicref ">
+                                        <h2 class="- topic/title title topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title10"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Environment sizing
+                                            guidelines</h2>
+                                        <div class="- topic/body concept/conbody body conbody"
+                                            css:display="block" css:margin-bottom="0"
+                                            css:margin-left="0" css:margin-right="0"
+                                            css:margin-top="0">
+                                            <p class="- topic/shortdesc shortdesc"
+                                                css:display="block" css:margin-bottom="0.5em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0.5em"> To size an environment
+                                                precisely, you must understand the factors such as
+                                                harvest frequency, complexityof the source, and use
+                                                case scenarios that drive application use and action
+                                                execution. </p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">The
+                                                general design guidelines for IBM StoredIQ are as
+                                                follows:</p>
+                                            <ul class="- topic/ul ul" css:display="block"
+                                                css:list-style-type="disc"
+                                                css:margin-bottom="1.33em" css:margin-top="1.33em">
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">For data servers of the type
+                                                  DataServer - Classic: <ul class="- topic/ul ul"
+                                                  css:display="block" css:margin-bottom="0em"
+                                                  css:margin-top="0em">
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:list-style-type="circle" css:margin-left="2em"
+                                                  >One data server for up to 30 TBs of data (which
+                                                  can vary based on the number of volumes,
+                                                  objectsper volume, and object types).</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:list-style-type="circle" css:margin-left="2em"
+                                                  >p to 500 volumes per data server. <div
+                                                  class="- topic/note note tip note_tip"
+                                                  css:display="block" css:margin-bottom="1em"
+                                                  css:margin-top="1em" css:oxy-pdf-tag-type="Note"
+                                                  type="tip"><span class="note__title"
+                                                  css:background-image="url('file:/C:/Program%20Files/Oxygen%20XML%20Editor%2021/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/img/tip.svg')"
+                                                  css:background-position="left"
+                                                  css:background-repeat="no-repeat"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  css:padding-bottom="4px" css:padding-left="23px"
+                                                  css:padding-right="4px" css:padding-top="4px"
+                                                  >Tip:</span> When you're sizing an environment
+                                                  that includes Sharepoint data sources, keep in
+                                                  mind thatvolumes must be defined at Sharepoint
+                                                  site collection level, not the Sharepoint server
+                                                  level.</div>
+                                                  </li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:list-style-type="circle" css:margin-left="2em"
+                                                  >Up to 150 million objects per data server.</li>
+                                                  </ul>
+                                                </li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">One gateway per 50 data
+                                                  servers.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">One application server.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">NFS is slightly faster than
+                                                  CIFS for metadata only, but assume CIFS/NFS even
+                                                  for this exercise.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Full-content processing of
+                                                  file (for example, .ZIP, .RAR, .GZ) and email
+                                                  archive (.PST, .NSF, .EMX)processing are slower as
+                                                  items must be extracted from the archives. If
+                                                  there is a significant number ofthese files in the
+                                                  file system and they are not excluded from content
+                                                  processing, the full-content processing rate can
+                                                  be too high. Until you have an initial index of
+                                                  the file system, you do not know howto weigh
+                                                  full-content processing of archives.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">An object/time metric is
+                                                  appropriate for metadata only NOT computing a
+                                                  hash, membership in theNational Institute of
+                                                  Standards and Technology (NIST) or enumerating
+                                                  objects that are contained inarchives. Converting
+                                                  it to a bytes/time metric is a function of the
+                                                  average object size and might varytremendously. An
+                                                  average object size of 250 KB was used for the
+                                                  metric that is provided earlier.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">A bytes/time metric is
+                                                  appropriate for metadata-only computing a hash and
+                                                  full-content processing.The object per second rate
+                                                  can vary tremendously depending on the object type
+                                                  and sizes encountered.For example, processing an
+                                                  email or file archive is much more expensive than
+                                                  a PDF document.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Metadata-only not computing
+                                                  a hash, membership in the NIST list, or
+                                                  enumerating objects that arecontained in archives
+                                                  is requesting only the file-attribute information
+                                                  from the NAS. Individual files arenot opened and
+                                                  read. The processing rate is high, but that does
+                                                  not translate into a large amount of datathat
+                                                  traverses a network between the NAS and data
+                                                  server. The bytes/time rate does not translate
+                                                  intobytes served by the NAS and sent over the
+                                                  network.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Metadata-only computing a
+                                                  hash, membership in the NIST list, or enumerating
+                                                  objects that arecontained in archives opens and
+                                                  reads the contents of each file. The content of
+                                                  all requested filestraverses the network between
+                                                  the NAS and data server. The maximum load that the
+                                                  data server canplace on a NAS is metadata-only
+                                                  processing. It requires all file content to be
+                                                  read to compute a hash orenumerate objects that
+                                                  are contained in archives. The bytes/time rate
+                                                  translates into bytes served upby the NAS and
+                                                  network traffic that must be considered.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Full-content processing
+                                                  opens and reads the contents of each file to
+                                                  extract all text. The content of allrequested
+                                                  files traverses the network between the NAS and
+                                                  data server. The processing time toenumerate
+                                                  archives, extract text, index words, and extract
+                                                  entities on the data server reduces the ratethat
+                                                  data is requested from a NAS compared to
+                                                  metadata-only with full hash. The bytes/time
+                                                  ratetranslates into bytes served up by the NAS and
+                                                  network traffic that must be considered.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">The interrogator process
+                                                  count on the data server for "metadata only not
+                                                  reading all content indexing" isset to eight for
+                                                  optimal performance.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">The interrogator process
+                                                  count for all other processing that involves
+                                                  reading all content default settingis four per
+                                                  data server.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">The interrogator count can
+                                                  be viewed as the number of client connections that
+                                                  are made to a datasource actively requesting data.
+                                                  It is important for capacity planning for the data
+                                                  source.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">The data servers are assumed
+                                                  to be "network close" to the NAS data sources.
+                                                  Network latency under 10ms with at least 1000 Mbps
+                                                  bandwidth is assumed (connected through local area
+                                                  network). The dataservers need a low latency
+                                                  high-bandwidth connection to a NAS data source for
+                                                  acceptable indexingperformance.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">The gateway and application
+                                                  stack can be located remotely from the data
+                                                  servers. Network connectionswith latency greater
+                                                  than 10 ms and bandwidth of at least 2+ Mbps are
+                                                  acceptable.</li>
+                                            </ul>
+                                            <section class="- topic/section section"
+                                                css:display="block" css:margin-bottom="1em"
+                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                <h3 class="- topic/title title sectiontitle"
+                                                  css:bookmark-level="3" css:display="block"
+                                                  css:font-size="1.17em" css:font-weight="bold"
+                                                  css:margin-bottom="0" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="1em"
+                                                  css:oxy-pdf-tag-type="H3"
+                                                  css:page-break-after="avoid"
+                                                  ><css:bookmark-label><css:content source="text"
+                                                  /></css:bookmark-label>VMware requirements</h3>
+                                                <ul class="- topic/ul ul" css:display="block"
+                                                  css:list-style-type="disc"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em">
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">VMware vSphere v5.0 and fix
+                                                  packs or v6.0 and fix packs.</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">VMware ESXi v5.0 and fix
+                                                  packs, v6.0 and fix packs, or v6.5 and fix
+                                                  packs.</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">VMware virtual machine
+                                                  hardware version 8.0 or later. For more
+                                                  information, see the VMware
+                                                  productdocumentation.</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">The appropriate VMware
+                                                  license to enable the required processor cores and
+                                                  memory for the virtualmachine.</li>
+                                                </ul>
+                                            </section>
+                                        </div>
+                                    </article>
+                                    <article aria-labelledby="ariaid-title11"
+                                        class="- topic/topic concept/concept topic concept nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_11" nd:nd-id="stack_provisioning_prereq"
+                                        oid="stack_provisioning_prereq"
+                                        topicrefclass="- map/topicref ">
+                                        <h2 class="- topic/title title topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title11"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Stack-provisioning
+                                            prerequisites</h2>
+                                        <div class="- topic/body concept/conbody body conbody"
+                                            css:display="block" css:margin-bottom="0"
+                                            css:margin-left="0" css:margin-right="0"
+                                            css:margin-top="0">
+                                            <p class="- topic/shortdesc shortdesc"
+                                                css:display="block" css:margin-bottom="0.5em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0.5em">Before a deployment, verify
+                                                that you meet these prerequisites.</p>
+                                            <ul class="- topic/ul ul" css:display="block"
+                                                css:list-style-type="disc"
+                                                css:margin-bottom="1.33em" css:margin-top="1.33em">
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">At least one physical server
+                                                  with sufficient processor, RAM, and hard disk
+                                                  configuration for the plannedmanagement
+                                                  project.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">VMware ESX or ESXi on CD/DVD
+                                                  or USB drive.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">P addresses, cables, and
+                                                  physical switch ports for at least the ESXi/ESX
+                                                  interface, one data server, onegateway server, and
+                                                  one application stack.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em"> Network connectivity that
+                                                  is enabled from the following locations: <ul
+                                                  class="- topic/ul ul" css:display="block"
+                                                  css:margin-bottom="0em" css:margin-top="0em">
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:list-style-type="circle" css:margin-left="2em"
+                                                  >The data server IP address to the gateway IP
+                                                  address on port 11103</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:list-style-type="circle" css:margin-left="2em"
+                                                  >The gateway IP address to and from the
+                                                  application stack IP address on port 8765 and
+                                                  5432</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:list-style-type="circle" css:margin-left="2em"
+                                                  >Ports 80, 443, and 22 from the administrative
+                                                  workstation to the application stack and data
+                                                  server IPaddresses</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:list-style-type="circle" css:margin-left="2em"
+                                                  >Port 22 from the administrative workstation to
+                                                  the gateway IP address.</li>
+                                                  </ul>
+                                                </li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Network connectivity that is
+                                                  enabled from the data server IP address to any
+                                                  data sources to beharvested and managed.</li>
+                                                <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">A management station
+                                                  computer or notebook from where the
+                                                  load-management work is done.</li>
+                                            </ul>
+                                        </div>
+                                    </article>
+                                    <article aria-labelledby="ariaid-title12"
+                                        class="- topic/topic concept/concept topic concept nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_12" nd:nd-id="license_usage_metrics"
+                                        oid="license_usage_metrics" topicrefclass="- map/topicref ">
+                                        <h2 class="- topic/title title topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title12"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>License usage metrics</h2>
+                                        <div class="- topic/body concept/conbody body conbody"
+                                            css:display="block" css:margin-bottom="0"
+                                            css:margin-left="0" css:margin-right="0"
+                                            css:margin-top="0">
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">Using
+                                                the IBM License Metric Tool, you can generate
+                                                license consumption reports that count IBMStoredIQ
+                                                license usage.</p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">IBM
+                                                StoredIQ is licensed by Resource Value Unit (RVU).
+                                                RVU calculation is based on terabytes
+                                                IBMStoredIQ.</p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">On the
+                                                IBM StoredIQ application stack, a license program
+                                                writes usage information to an IBM SoftwareLicence
+                                                Metric Tag (SLMT) file. This file has the extension
+                                                .slmtag and can be read periodically by the
+                                                IBMLicense Metric Tool (ILMT) after it has been
+                                                configured to scan for these files. You can generate
+                                                reportsthat summarize usage.</p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">By
+                                                default, the license program retrieves the size of
+                                                the <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">All
+                                                  Data Objects</strong> infoset in terabytes once
+                                                per dayand writes this information to the
+                                                /var/siq/ilmt/3cd1469042433ee7010fe09f661dc67b.slmtagfile.
+                                                The .slmtag file can store information up to a
+                                                maximum file size of 1 MB, after which the file
+                                                isarchived and a new log file is created. A maximum
+                                                of 10 log files are kept.</p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">The
+                                                .slmtag file contains usage information in the
+                                                following format, where new metric records
+                                                areappended to the end of the file:</p>
+                                            <pre class="+ topic/pre pr-d/codeblock pre codeblock" css:background-color="rgb(238 , 238 , 238)" css:display="block" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="0.5em" css:margin-left="0.5em" css:margin-right="0" css:margin-top="0.5em" css:max-height="600px" css:oxy-pdf-tag-type="Code" css:padding-bottom="0.5em" css:padding-left="0.5em" css:padding-right="0.5em" css:padding-top="0.5em" css:white-space="pre-wrap" xml:space="preserve"><code css:display="inline" css:font-family="monospace" css:font-size="smaller">
+            &lt;SchemaVersion&gt;2.1.1&lt;/SchemaVersion&gt;&lt;SoftwareIdentity&gt;        
+            &lt;PersistentId&gt;cb98e260a2a14872902578de1b8e2016&lt;/PersistentId&gt;        
+            &lt;Name&gt;IBM StoredIQ Data Assessment&lt;/Name&gt;        
+            &lt;InstanceId&gt;/var/siq/ilmt&lt;/InstanceId&gt;
+            &lt;/SoftwareIdentity&gt;&lt;Metric logTime="2019-01-25T15:58:26+00:00"&gt;        
+            &lt;Type&gt;TERABYTE&lt;/Type&gt;        
+            &lt;SubType&gt;All Data Objects&lt;/SubType&gt;        
+            &lt;Value&gt;0.005&lt;/Value&gt;        
+            &lt;Period&gt;                
+            &lt;StartTime&gt;2019-01-25T15:58:26+00:00&lt;/StartTime&gt;                
+            &lt;EndTime&gt;2019-01-25T15:58:26+00:00&lt;/EndTime&gt;        
+            &lt;/Period&gt;
+            &lt;/Metric&gt;
+        </code></pre>
+                                            <section class="- topic/section section"
+                                                css:display="block" css:margin-bottom="1em"
+                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                <h3 class="- topic/title title sectiontitle"
+                                                  css:bookmark-level="3" css:display="block"
+                                                  css:font-size="1.17em" css:font-weight="bold"
+                                                  css:margin-bottom="0" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="1em"
+                                                  css:oxy-pdf-tag-type="H3"
+                                                  css:page-break-after="avoid"
+                                                  ><css:bookmark-label><css:content source="text"
+                                                  /></css:bookmark-label>Integration with IBM
+                                                  License Metric Too</h3>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  >Versions of IBM License Metric Tool (ILMT) that
+                                                  support IBM Software License Metric Tag (SLMT)
+                                                  cangenerate license consumption reports. An ILMT
+                                                  agent can scan in configurable intervals the file
+                                                  systemfor .slmtag files, collect information, and
+                                                  send it to the corresponding ILMT server. ILMT
+                                                  reports thenumber of terabytes managed by IBM
+                                                  StoredIQ. This number is to be used as input for
+                                                  the RVU LicenseConversion Table specified in the
+                                                  license information (li_languagecodefile) that
+                                                  comes with IBMStoredIQ. On the application stack,
+                                                  you can find the license information in the
+                                                  License directory.</p>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">For
+                                                  more information about using IBM License Metric
+                                                  Tool, see the <a class="- topic/xref xref"
+                                                  css:color="blue" css:display="inline"
+                                                  css:link="https://www.ibm.com/support/knowledgecenter/SS8JFY_9.2.0/com.ibm.lmt.doc/welcome/LMT_welcome.html"
+                                                  css:text-decoration="underline" format="html"
+                                                  href="https://www.ibm.com/support/knowledgecenter/SS8JFY_9.2.0/com.ibm.lmt.doc/welcome/LMT_welcome.html"
+                                                  scope="external" target="_blank">IBM License
+                                                  Metric Tool documentation<css:after
+                                                  css:display="inline" css:font-style="italic"
+                                                  css:link="https://www.ibm.com/support/knowledgecenter/SS8JFY_9.2.0/com.ibm.lmt.doc/welcome/LMT_welcome.html"
+                                                  css:text-decoration="underline"/></a></p>
+                                            </section>
+                                        </div>
+                                    </article>
+                                    <article aria-labelledby="ariaid-title13"
+                                        class="- topic/topic concept/concept topic concept nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_13" nd:nd-id="security" oid="security"
+                                        topicrefclass="- map/topicref ">
+                                        <h2 class="- topic/title title topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title13"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Security</h2>
+                                        <div class="- topic/body concept/conbody body conbody"
+                                            css:display="block" css:margin-bottom="0"
+                                            css:margin-left="0" css:margin-right="0"
+                                            css:margin-top="0">
+                                            <p class="- topic/shortdesc shortdesc"
+                                                css:display="block" css:margin-bottom="0.5em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0.5em">Plan and implement specific
+                                                security measures to protect the application and the
+                                                data it manages,especially when you deploy IBM
+                                                StoredIQ into sensitive environments.</p>
+                                            <p class="- topic/p p" css:display="block"
+                                                css:margin-bottom="0.5em" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0.5em">IBM
+                                                StoredIQ keeps your data secure through encryption,
+                                                security hardening, and auditing.</p>
+                                            <section class="- topic/section section"
+                                                css:display="block" css:margin-bottom="1em"
+                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                <h3 class="- topic/title title sectiontitle"
+                                                  css:bookmark-level="3" css:display="block"
+                                                  css:font-size="1.17em" css:font-weight="bold"
+                                                  css:margin-bottom="0" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="1em"
+                                                  css:oxy-pdf-tag-type="H3"
+                                                  css:page-break-after="avoid"
+                                                  ><css:bookmark-label><css:content source="text"
+                                                  /></css:bookmark-label>Federal Information
+                                                  Processing Standard (FIPS)</h3>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">FIPS
+                                                  is a standard recommended by the National
+                                                  Institute of Standards and Technology (NIST) and
+                                                  theUS Federal Government. It ensures certain
+                                                  security standards are met for software or
+                                                  hardwarecomponents deployed at US government
+                                                  sites. Enabling FIPS ensures that the SSL/TLS
+                                                  engine that iscompliant with the US Government
+                                                  recommendation is used. IBM StoredIQ supports FIPS
+                                                  Level 1.</p>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">Secure
+                                                  gateway communication can be enabled without FIPS.
+                                                  If FIPS is enabled, IBM StoredIQ uses
+                                                  FIPScompliant versions of OpenSSL.</p>
+                                            </section>
+                                            <section class="- topic/section section"
+                                                css:display="block" css:margin-bottom="1em"
+                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                <h3 class="- topic/title title sectiontitle"
+                                                  css:bookmark-level="3" css:display="block"
+                                                  css:font-size="1.17em" css:font-weight="bold"
+                                                  css:margin-bottom="0" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="1em"
+                                                  css:oxy-pdf-tag-type="H3"
+                                                  css:page-break-after="avoid"
+                                                  ><css:bookmark-label><css:content source="text"
+                                                  /></css:bookmark-label>Secure communication and
+                                                  encryption of data in motion</h3>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">In a
+                                                  production environment, you should configure or
+                                                  install certificates on the AppStack to enable
+                                                  HTTPScommunication and to enable encryption of
+                                                  data in motion between the browser and the
+                                                  AppStack. Youcan to this during installation and
+                                                  initial configuration or at any time afterward.
+                                                  For details, see theinstructions for configuring
+                                                  certificates</p>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">The
+                                                  gateway handles the communication between the data
+                                                  servers and the application stack. By default,the
+                                                  communication between the gateway, any data
+                                                  servers, and the AppStack is in plain text and is
+                                                  notencrypted. If your enterprise security policy
+                                                  mandates encryption of data in motion, enable
+                                                  securegateway communication. In this case, secure
+                                                  gateway communication must be configured on all
+                                                  three IBM StoredIQ components. You can enable
+                                                  secure gateway communication during installation
+                                                  and initial configuration or at any time
+                                                  afterward. For details, see “Managing the status
+                                                  of secure gatewaycommunication” on page 54.</p>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">IBM
+                                                  StoredIQ then uses stunnel to ensure secure
+                                                  communication between the components. If
+                                                  yourenvironment includes data servers of the type
+                                                  DataServer - Distributed, stunnel can also be used
+                                                  toencrypt the communication between the nodes
+                                                  within the Elasticsearch cluster but not for
+                                                  encrypting thecommunication between the data
+                                                  server and the Elasticsearch cluster.</p>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">To
+                                                  secure the communication between the data server
+                                                  and the Elasticsearch cluster and thecommunication
+                                                  within the Elasticsearch cluster likewise, you can
+                                                  enable Search Guard. For moreinformation, see
+                                                  “Securing Elasticsearch cluster communication with
+                                                  Search Guard” on page 51. If youdon't want to do
+                                                  that but still want to restrict client access to
+                                                  port 9200 on the Elasticsearch nodes, you can set
+                                                  up the firewall accordingly. For more information,
+                                                  see “Restricting access to port 9200 on
+                                                  Elasticsearch nodes” on page 52.</p>
+                                                <div class="- topic/p p" css:display="block"> If
+                                                  FIPS is not enabled, the following cipher suites
+                                                  and encryption algorithm are used for data at
+                                                  rest: <ul class="- topic/sl sl simple"
+                                                  css:display="block" css:list-style-type="none"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em">
+                                                  <li class="- topic/sli sli"
+                                                  css:display="list-item" css:margin-left="2em"
+                                                  >TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256</li>
+                                                  <li class="- topic/sli sli"
+                                                  css:display="list-item" css:margin-left="2em"
+                                                  >TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256</li>
+                                                  </ul>
+                                                </div>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">You
+                                                  can configure these cipher suites in the
+                                                  configurationfiles listed in the list of key and
+                                                  certificatefiles.However, if you run the utilities
+                                                  for enabling stunnel, you might need to make the
+                                                  respective configurationchanges again.</p>
+                                            </section>
+                                            <section class="- topic/section section"
+                                                css:display="block" css:margin-bottom="1em"
+                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                <h3 class="- topic/title title sectiontitle"
+                                                  css:bookmark-level="3" css:display="block"
+                                                  css:font-size="1.17em" css:font-weight="bold"
+                                                  css:margin-bottom="0" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="1em"
+                                                  css:oxy-pdf-tag-type="H3"
+                                                  css:page-break-after="avoid"
+                                                  ><css:bookmark-label><css:content source="text"
+                                                  /></css:bookmark-label>Encryption of data at
+                                                  rest</h3>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  >Starting with IBM StoredIQ version 7.6.0.15, the
+                                                  disk volume on which the Elasticsearch indexes
+                                                  arestored is encrypted by default. IBM StoredIQ
+                                                  uses Linux Unified Key Setup (LUKS) for disk
+                                                  encryption. Fordetails about key management, see
+                                                  “Key and certificate management” on page 41.</p>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  >Optionally, you can encrypt the application data
+                                                  on the IBM StoredIQ application stack. For
+                                                  moreinformation, see “Enabling encryption of IBM
+                                                  StoredIQ AppStack application data” on page
+                                                  50.</p>
+                                            </section>
+                                            <section class="- topic/section section"
+                                                css:display="block" css:margin-bottom="1em"
+                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                <h3 class="- topic/title title sectiontitle"
+                                                  css:bookmark-level="3" css:display="block"
+                                                  css:font-size="1.17em" css:font-weight="bold"
+                                                  css:margin-bottom="0" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="1em"
+                                                  css:oxy-pdf-tag-type="H3"
+                                                  css:page-break-after="avoid"
+                                                  ><css:bookmark-label><css:content source="text"
+                                                  /></css:bookmark-label>Network isolation</h3>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">If
+                                                  full-text harvesting and Step-up Analytics actions
+                                                  (cartridges) are applied, Elasticsearch indexes
+                                                  cancontain potentially sensitive content.
+                                                  Therefore, you should deploy the Elasticsearch
+                                                  nodes in an isolatedlocation on the network (for
+                                                  example, as an enclave or behind a firewall) that
+                                                  is properly securedaccording to the sensitivity of
+                                                  the data being harvested. Only the IBM StoredIQ
+                                                  application stack and dataservers should be
+                                                  allowed to communicate with the Elasticsearch
+                                                  nodes.</p>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">Also,
+                                                  any data servers and the gateway should be
+                                                  deployed in an isolated network location to allow
+                                                  forcommunication with authorized clients only.</p>
+                                            </section>
+                                            <section class="- topic/section section"
+                                                css:display="block" css:margin-bottom="1em"
+                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                <h3 class="- topic/title title sectiontitle"
+                                                  css:bookmark-level="3" css:display="block"
+                                                  css:font-size="1.17em" css:font-weight="bold"
+                                                  css:margin-bottom="0" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="1em"
+                                                  css:oxy-pdf-tag-type="H3"
+                                                  css:page-break-after="avoid"
+                                                  ><css:bookmark-label><css:content source="text"
+                                                  /></css:bookmark-label>Access control</h3>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">The
+                                                  following administrative accounts are required.
+                                                  The builder and siqadmin accounts are
+                                                  IBMStoredIQ-specific accounts. For more
+                                                  information about these accounts, see <a
+                                                  class="- topic/xref xref" css:color="blue"
+                                                  css:display="inline" css:link="#unique_13"
+                                                  css:text-decoration="underline" href="#unique_13"
+                                                  title="Plan and implement specific security measures to protect the application and the data it manages,especially when you deploy IBM StoredIQ into sensitive environments."
+                                                  type="concept">“Default user accounts”<css:after
+                                                  css:display="inline" css:font-style="italic"
+                                                  css:link="#unique_13"
+                                                  css:text-decoration="underline"><css:text> (on
+                                                  page </css:text><css:target-counter
+                                                  url-fragment="unique_13"
+                                                  /><css:text>)</css:text></css:after></a> onpage
+                                                  17.</p>
+                                                <dl class="- topic/dl dl" css:display="block">
+                                                  <dt class="- topic/dt dt dlterm"
+                                                  css:display="block" css:font-weight="bold"
+                                                  css:margin-bottom="0.5em" css:margin-left="1em"
+                                                  css:margin-right="1em" css:margin-top="0.5em"
+                                                  ><code class="+ topic/ph pr-d/codeph ph codeph"
+                                                  css:display="inline" css:font-family="monospace"
+                                                  css:font-size="smaller"
+                                                  css:oxy-pdf-tag-type="Code">root</code> and <code
+                                                  class="+ topic/ph pr-d/codeph ph codeph"
+                                                  css:display="inline" css:font-family="monospace"
+                                                  css:font-size="smaller"
+                                                  css:oxy-pdf-tag-type="Code">builder</code>
+                                                  accounts on the Elasticsearch cluster nodes</dt>
+                                                  <dd class="- topic/dd dd" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="3em"
+                                                  css:margin-right="3em" css:margin-top="0.5em">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">Remote
+                                                  login for root can be disabled. However, local
+                                                  root login is required, either log in as root
+                                                  oruse the <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >su</strong> command to obtain root permissions
+                                                  temporarily.</p>
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">You
+                                                  set the passwords for the <code
+                                                  class="+ topic/ph pr-d/codeph ph codeph"
+                                                  css:display="inline" css:font-family="monospace"
+                                                  css:font-size="smaller"
+                                                  css:oxy-pdf-tag-type="Code">root</code> and <code
+                                                  class="+ topic/ph pr-d/codeph ph codeph"
+                                                  css:display="inline" css:font-family="monospace"
+                                                  css:font-size="smaller"
+                                                  css:oxy-pdf-tag-type="Code">builder</code>
+                                                  accounts during the configuration process when you
+                                                  start the <code
+                                                  class="+ topic/ph pr-d/codeph ph codeph"
+                                                  css:display="inline" css:font-family="monospace"
+                                                  css:font-size="smaller"
+                                                  css:oxy-pdf-tag-type="Code">VM</code> for the
+                                                  first time. You can change these passwords
+                                                  anytime.</p>
+                                                  </dd>
+                                                  <dt class="- topic/dt dt dlterm"
+                                                  css:display="block" css:font-weight="bold"
+                                                  css:margin-bottom="0.5em" css:margin-left="1em"
+                                                  css:margin-right="1em" css:margin-top="0.5em"
+                                                  ><code class="+ topic/ph pr-d/codeph ph codeph"
+                                                  css:display="inline" css:font-family="monospace"
+                                                  css:font-size="smaller"
+                                                  css:oxy-pdf-tag-type="Code">siqadmin</code>
+                                                  account on the AppStack</dt>
+                                                  <dd class="- topic/dd dd" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="3em"
+                                                  css:margin-right="3em" css:margin-top="0.5em">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  >Administration of the <code
+                                                  class="+ topic/ph pr-d/codeph ph codeph"
+                                                  css:display="inline" css:font-family="monospace"
+                                                  css:font-size="smaller"
+                                                  css:oxy-pdf-tag-type="Code">AppStack</code>
+                                                  usually does not require direct root access. For
+                                                  day-to-day administration, the <code
+                                                  class="+ topic/ph pr-d/codeph ph codeph"
+                                                  css:display="inline" css:font-family="monospace"
+                                                  css:font-size="smaller"
+                                                  css:oxy-pdf-tag-type="Code">siqadmin</code>
+                                                  account can be used.</p>
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">You
+                                                  set the password for the <code
+                                                  class="+ topic/ph pr-d/codeph ph codeph"
+                                                  css:display="inline" css:font-family="monospace"
+                                                  css:font-size="smaller"
+                                                  css:oxy-pdf-tag-type="Code">siqadmin</code>
+                                                  account during the configuration process when you
+                                                  start the <code
+                                                  class="+ topic/ph pr-d/codeph ph codeph"
+                                                  css:display="inline" css:font-family="monospace"
+                                                  css:font-size="smaller"
+                                                  css:oxy-pdf-tag-type="Code">VM</code> for the
+                                                  first time. You can change this password
+                                                  anytime.</p>
+                                                  </dd>
+                                                </dl>
+                                            </section>
+                                            <section class="- topic/section section"
+                                                css:display="block" css:margin-bottom="1em"
+                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect"
+                                                id="unique_13_Connect_42_def_user_accounts"
+                                                nd:nd-id="def_user_accounts">
+                                                <h3 class="- topic/title title sectiontitle"
+                                                  css:bookmark-level="3" css:display="block"
+                                                  css:font-size="1.17em" css:font-weight="bold"
+                                                  css:margin-bottom="0" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="1em"
+                                                  css:oxy-pdf-tag-type="H3"
+                                                  css:page-break-after="avoid"
+                                                  ><css:bookmark-label><css:content source="text"
+                                                  /></css:bookmark-label>Default user accounts</h3>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">IBM
+                                                  StoredIQ comes with a set of default user
+                                                  accounts.</p>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">For
+                                                  security reasons, change the passwords for these
+                                                  default accounts after the installation is
+                                                  completeso that they are unique and different from
+                                                  the default values. The new password must be 8 to
+                                                  64characters long and must contain characters from
+                                                  at least three of these categories:</p>
+                                                <ul class="- topic/ul ul" css:display="block"
+                                                  css:list-style-type="disc"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em">
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Uppercase letters: A -
+                                                  Z</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Lowercase letters: a -
+                                                  z</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Digits: 0 - 9</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Punctuation marks or special
+                                                  characters: . : = * ˆ / $ # _ + @ &amp; % -</li>
+                                                </ul>
+                                                <table class="- topic/table table"
+                                                  css:border-collapse="collapse" css:display="table"
+                                                  css:table-layout="auto">
+                                                  <caption css:display="table-caption"
+                                                  css:font-weight="bold" css:margin-top="0.5em"
+                                                  css:page-break-after="avoid" css:text-align="left"/>
+                                                  <colgroup css:display="table-column-group">
+                                                  <col css:display="table-column"/>
+                                                  <col css:display="table-column"/>
+                                                  <col css:display="table-column"/>
+                                                  </colgroup>
+                                                  <thead class="- topic/thead thead"
+                                                  css:display="table-header-group"
+                                                  css:font-weight="bold" css:text-align="center">
+                                                  <tr class="- topic/row row"
+                                                  css:display="table-row"
+                                                  css:vertical-align="middle">
+                                                  <th
+                                                  xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
+                                                  class="- topic/entry entry colsep-1 rowsep-1"
+                                                  colname="col1" css:border-bottom-style="solid"
+                                                  css:border-bottom-width="1px"
+                                                  css:border-right-style="solid"
+                                                  css:border-right-width="1px"
+                                                  css:display="table-cell" css:table-column="0"
+                                                  css:table-row="0" dita-ot:x="1" dita-ot:y="1"
+                                                  id="unique_13__unique_13_Connect_42_def_user_accounts__entry__1"
+                                                  >Account</th>
+                                                  <th
+                                                  xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
+                                                  class="- topic/entry entry colsep-1 rowsep-1"
+                                                  colname="col2" css:border-bottom-style="solid"
+                                                  css:border-bottom-width="1px"
+                                                  css:border-right-style="solid"
+                                                  css:border-right-width="1px"
+                                                  css:display="table-cell" css:table-column="1"
+                                                  css:table-row="0" dita-ot:x="2" dita-ot:y="1"
+                                                  id="unique_13__unique_13_Connect_42_def_user_accounts__entry__2"
+                                                  >Default password</th>
+                                                  <th
+                                                  xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
+                                                  class="- topic/entry entry colsep-1 rowsep-1"
+                                                  colname="col3" css:border-bottom-style="solid"
+                                                  css:border-bottom-width="1px"
+                                                  css:border-right-style="solid"
+                                                  css:border-right-width="1px"
+                                                  css:display="table-cell" css:table-column="2"
+                                                  css:table-row="0" dita-ot:x="3" dita-ot:y="1"
+                                                  id="unique_13__unique_13_Connect_42_def_user_accounts__entry__3"
+                                                  >Description</th>
+                                                  </tr>
+                                                  </thead>
+                                                  <tbody class="- topic/tbody tbody"
+                                                  css:display="table-row-group">
+                                                  <tr class="- topic/row row"
+                                                  css:display="table-row"
+                                                  css:vertical-align="middle">
+                                                  <td
+                                                  xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
+                                                  class="- topic/entry entry colsep-1 rowsep-1"
+                                                  colname="col1" css:border-bottom-style="solid"
+                                                  css:border-bottom-width="1px"
+                                                  css:border-right-style="solid"
+                                                  css:border-right-width="1px"
+                                                  css:display="table-cell" css:table-column="0"
+                                                  css:table-row="1" css:vertical-align="top"
+                                                  dita-ot:x="1" dita-ot:y="2"
+                                                  headers="unique_13__unique_13_Connect_42_def_user_accounts__entry__1 ">
+                                                  <code class="+ topic/ph pr-d/codeph ph codeph"
+                                                  css:display="inline" css:font-family="monospace"
+                                                  css:font-size="smaller"
+                                                  css:oxy-pdf-tag-type="Code">admin</code>
+                                                  </td>
+                                                  <td
+                                                  xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
+                                                  class="- topic/entry entry colsep-1 rowsep-1"
+                                                  colname="col2" css:border-bottom-style="solid"
+                                                  css:border-bottom-width="1px"
+                                                  css:border-right-style="solid"
+                                                  css:border-right-width="1px"
+                                                  css:display="table-cell" css:table-column="1"
+                                                  css:table-row="1" css:vertical-align="top"
+                                                  dita-ot:x="2" dita-ot:y="2"
+                                                  headers="unique_13__unique_13_Connect_42_def_user_accounts__entry__2 ">
+                                                  <code class="+ topic/ph pr-d/codeph ph codeph"
+                                                  css:display="inline" css:font-family="monospace"
+                                                  css:font-size="smaller"
+                                                  css:oxy-pdf-tag-type="Code">admin</code>
+                                                  </td>
+                                                  <td
+                                                  xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
+                                                  class="- topic/entry entry colsep-1 rowsep-1"
+                                                  colname="col3" css:border-bottom-style="solid"
+                                                  css:border-bottom-width="1px"
+                                                  css:border-right-style="solid"
+                                                  css:border-right-width="1px"
+                                                  css:display="table-cell" css:table-column="2"
+                                                  css:table-row="1" css:vertical-align="top"
+                                                  dita-ot:x="3" dita-ot:y="2"
+                                                  headers="unique_13__unique_13_Connect_42_def_user_accounts__entry__3 ">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  >Administrative account for accessingIBM StoredIQ
+                                                  Data Server. Use thisaccount for the initial setup
+                                                  of the dataserver and to create
+                                                  furtheradministrative accounts for
+                                                  routineadministration.</p>
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">Change
+                                                  the password in IBM StoredIQData Server under
+                                                  <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Administration &gt; Configuration &gt; Manage
+                                                  users.</strong></p>
+                                                  </td>
+                                                  </tr>
+                                                  <tr class="- topic/row row"
+                                                  css:display="table-row"
+                                                  css:vertical-align="middle">
+                                                  <td
+                                                  xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
+                                                  class="- topic/entry entry colsep-1 rowsep-1"
+                                                  colname="col1" css:border-bottom-style="solid"
+                                                  css:border-bottom-width="1px"
+                                                  css:border-right-style="solid"
+                                                  css:border-right-width="1px"
+                                                  css:display="table-cell" css:table-column="0"
+                                                  css:table-row="2" css:vertical-align="top"
+                                                  dita-ot:x="1" dita-ot:y="3"
+                                                  headers="unique_13__unique_13_Connect_42_def_user_accounts__entry__1 ">
+                                                  <code class="+ topic/ph pr-d/codeph ph codeph"
+                                                  css:display="inline" css:font-family="monospace"
+                                                  css:font-size="smaller"
+                                                  css:oxy-pdf-tag-type="Code">audituser</code>
+                                                  </td>
+                                                  <td
+                                                  xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
+                                                  class="- topic/entry entry colsep-1 rowsep-1"
+                                                  colname="col2" css:border-bottom-style="solid"
+                                                  css:border-bottom-width="1px"
+                                                  css:border-right-style="solid"
+                                                  css:border-right-width="1px"
+                                                  css:display="table-cell" css:table-column="1"
+                                                  css:table-row="2" css:vertical-align="top"
+                                                  dita-ot:x="2" dita-ot:y="3"
+                                                  headers="unique_13__unique_13_Connect_42_def_user_accounts__entry__2 ">
+                                                  <code class="+ topic/ph pr-d/codeph ph codeph"
+                                                  css:display="inline" css:font-family="monospace"
+                                                  css:font-size="smaller"
+                                                  css:oxy-pdf-tag-type="Code">Passw0rd!</code>
+                                                  </td>
+                                                  <td
+                                                  xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
+                                                  class="- topic/entry entry colsep-1 rowsep-1"
+                                                  colname="col3" css:border-bottom-style="solid"
+                                                  css:border-bottom-width="1px"
+                                                  css:border-right-style="solid"
+                                                  css:border-right-width="1px"
+                                                  css:display="table-cell" css:table-column="2"
+                                                  css:table-row="2" css:vertical-align="top"
+                                                  dita-ot:x="3" dita-ot:y="3"
+                                                  headers="unique_13__unique_13_Connect_42_def_user_accounts__entry__3 "
+                                                  />
+                                                  </tr>
+                                                  <tr class="- topic/row row"
+                                                  css:display="table-row"
+                                                  css:vertical-align="middle">
+                                                  <td
+                                                  xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
+                                                  class="- topic/entry entry colsep-1 rowsep-1"
+                                                  colname="col1" css:border-bottom-style="solid"
+                                                  css:border-bottom-width="1px"
+                                                  css:border-right-style="solid"
+                                                  css:border-right-width="1px"
+                                                  css:display="table-cell" css:table-column="0"
+                                                  css:table-row="3" css:vertical-align="top"
+                                                  dita-ot:x="1" dita-ot:y="4"
+                                                  headers="unique_13__unique_13_Connect_42_def_user_accounts__entry__1 ">
+                                                  <code class="+ topic/ph pr-d/codeph ph codeph"
+                                                  css:display="inline" css:font-family="monospace"
+                                                  css:font-size="smaller"
+                                                  css:oxy-pdf-tag-type="Code">builder</code>
+                                                  </td>
+                                                  <td
+                                                  xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
+                                                  class="- topic/entry entry colsep-1 rowsep-1"
+                                                  colname="col2" css:border-bottom-style="solid"
+                                                  css:border-bottom-width="1px"
+                                                  css:border-right-style="solid"
+                                                  css:border-right-width="1px"
+                                                  css:display="table-cell" css:table-column="1"
+                                                  css:table-row="3" css:vertical-align="top"
+                                                  dita-ot:x="2" dita-ot:y="4"
+                                                  headers="unique_13__unique_13_Connect_42_def_user_accounts__entry__2 "
+                                                  >None. Password is set during
+                                                  initialconfiguration.</td>
+                                                  <td
+                                                  xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
+                                                  class="- topic/entry entry colsep-1 rowsep-1"
+                                                  colname="col3" css:border-bottom-style="solid"
+                                                  css:border-bottom-width="1px"
+                                                  css:border-right-style="solid"
+                                                  css:border-right-width="1px"
+                                                  css:display="table-cell" css:table-column="2"
+                                                  css:table-row="3" css:vertical-align="top"
+                                                  dita-ot:x="3" dita-ot:y="4"
+                                                  headers="unique_13__unique_13_Connect_42_def_user_accounts__entry__3 ">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  >Account for setting up and configuring the
+                                                  Elasticsearch cluster.</p>
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">You
+                                                  can change the password by using the Linux <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >passwd</strong> command.</p>
+                                                  </td>
+                                                  </tr>
+                                                  <tr class="- topic/row row"
+                                                  css:display="table-row"
+                                                  css:vertical-align="middle">
+                                                  <td
+                                                  xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
+                                                  class="- topic/entry entry colsep-1 rowsep-1"
+                                                  colname="col1" css:border-bottom-style="solid"
+                                                  css:border-bottom-width="1px"
+                                                  css:border-right-style="solid"
+                                                  css:border-right-width="1px"
+                                                  css:display="table-cell" css:table-column="0"
+                                                  css:table-row="4" css:vertical-align="top"
+                                                  dita-ot:x="1" dita-ot:y="5"
+                                                  headers="unique_13__unique_13_Connect_42_def_user_accounts__entry__1 ">
+                                                  <code class="+ topic/ph pr-d/codeph ph codeph"
+                                                  css:display="inline" css:font-family="monospace"
+                                                  css:font-size="smaller"
+                                                  css:oxy-pdf-tag-type="Code">reportuser</code>
+                                                  </td>
+                                                  <td
+                                                  xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
+                                                  class="- topic/entry entry colsep-1 rowsep-1"
+                                                  colname="col2" css:border-bottom-style="solid"
+                                                  css:border-bottom-width="1px"
+                                                  css:border-right-style="solid"
+                                                  css:border-right-width="1px"
+                                                  css:display="table-cell" css:table-column="1"
+                                                  css:table-row="4" css:vertical-align="top"
+                                                  dita-ot:x="2" dita-ot:y="5"
+                                                  headers="unique_13__unique_13_Connect_42_def_user_accounts__entry__2 ">
+                                                  <code class="+ topic/ph pr-d/codeph ph codeph"
+                                                  css:display="inline" css:font-family="monospace"
+                                                  css:font-size="smaller"
+                                                  css:oxy-pdf-tag-type="Code">St0red1q</code>
+                                                  </td>
+                                                  <td
+                                                  xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
+                                                  class="- topic/entry entry colsep-1 rowsep-1"
+                                                  colname="col3" css:border-bottom-style="solid"
+                                                  css:border-bottom-width="1px"
+                                                  css:border-right-style="solid"
+                                                  css:border-right-width="1px"
+                                                  css:display="table-cell" css:table-column="2"
+                                                  css:table-row="4" css:vertical-align="top"
+                                                  dita-ot:x="3" dita-ot:y="5"
+                                                  headers="unique_13__unique_13_Connect_42_def_user_accounts__entry__3 ">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  >Account for accessing the reportdatabase on the
+                                                  AppStack.</p>
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">Change
+                                                  the password by running the <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >change_audituser_password</strong> script as
+                                                  <code class="+ topic/ph pr-d/codeph ph codeph"
+                                                  css:display="inline" css:font-family="monospace"
+                                                  css:font-size="smaller"
+                                                  css:oxy-pdf-tag-type="Code">siqadmin</code> user
+                                                  on the AppStack.</p>
+                                                  </td>
+                                                  </tr>
+                                                  <tr class="- topic/row row"
+                                                  css:display="table-row"
+                                                  css:vertical-align="middle">
+                                                  <td
+                                                  xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
+                                                  class="- topic/entry entry colsep-1 rowsep-1"
+                                                  colname="col1" css:border-bottom-style="solid"
+                                                  css:border-bottom-width="1px"
+                                                  css:border-right-style="solid"
+                                                  css:border-right-width="1px"
+                                                  css:display="table-cell" css:table-column="0"
+                                                  css:table-row="5" css:vertical-align="top"
+                                                  dita-ot:x="1" dita-ot:y="6"
+                                                  headers="unique_13__unique_13_Connect_42_def_user_accounts__entry__1 ">
+                                                  <code class="+ topic/ph pr-d/codeph ph codeph"
+                                                  css:display="inline" css:font-family="monospace"
+                                                  css:font-size="smaller"
+                                                  css:oxy-pdf-tag-type="Code">siqadmin</code>
+                                                  </td>
+                                                  <td
+                                                  xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
+                                                  class="- topic/entry entry colsep-1 rowsep-1"
+                                                  colname="col2" css:border-bottom-style="solid"
+                                                  css:border-bottom-width="1px"
+                                                  css:border-right-style="solid"
+                                                  css:border-right-width="1px"
+                                                  css:display="table-cell" css:table-column="1"
+                                                  css:table-row="5" css:vertical-align="top"
+                                                  dita-ot:x="2" dita-ot:y="6"
+                                                  headers="unique_13__unique_13_Connect_42_def_user_accounts__entry__2 ">
+                                                  <code class="+ topic/ph pr-d/codeph ph codeph"
+                                                  css:display="inline" css:font-family="monospace"
+                                                  css:font-size="smaller"
+                                                  css:oxy-pdf-tag-type="Code">Passw0rd!</code>
+                                                  </td>
+                                                  <td
+                                                  xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
+                                                  class="- topic/entry entry colsep-1 rowsep-1"
+                                                  colname="col3" css:border-bottom-style="solid"
+                                                  css:border-bottom-width="1px"
+                                                  css:border-right-style="solid"
+                                                  css:border-right-width="1px"
+                                                  css:display="table-cell" css:table-column="2"
+                                                  css:table-row="5" css:vertical-align="top"
+                                                  dita-ot:x="3" dita-ot:y="6"
+                                                  headers="unique_13__unique_13_Connect_42_def_user_accounts__entry__3 ">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  >Administrative account for managing the AppStack
+                                                  server. For more information,see the
+                                                  administration guide.</p>
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">With
+                                                  new installations, you are prompted for a new
+                                                  password during the initial configuration of the
+                                                  AppStack. Inupdated deployments, change
+                                                  thepassword by using the Linux <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >passwd</strong> command.</p>
+                                                  </td>
+                                                  </tr>
+                                                  <tr class="- topic/row row"
+                                                  css:display="table-row"
+                                                  css:vertical-align="middle">
+                                                  <td
+                                                  xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
+                                                  class="- topic/entry entry colsep-1 rowsep-1"
+                                                  colname="col1" css:border-bottom-style="solid"
+                                                  css:border-bottom-width="1px"
+                                                  css:border-right-style="solid"
+                                                  css:border-right-width="1px"
+                                                  css:display="table-cell" css:table-column="0"
+                                                  css:table-row="6" css:vertical-align="top"
+                                                  dita-ot:x="1" dita-ot:y="7"
+                                                  headers="unique_13__unique_13_Connect_42_def_user_accounts__entry__1 ">
+                                                  <code class="+ topic/ph pr-d/codeph ph codeph"
+                                                  css:display="inline" css:font-family="monospace"
+                                                  css:font-size="smaller"
+                                                  css:oxy-pdf-tag-type="Code">superadmin</code>
+                                                  </td>
+                                                  <td
+                                                  xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
+                                                  class="- topic/entry entry colsep-1 rowsep-1"
+                                                  colname="col2" css:border-bottom-style="solid"
+                                                  css:border-bottom-width="1px"
+                                                  css:border-right-style="solid"
+                                                  css:border-right-width="1px"
+                                                  css:display="table-cell" css:table-column="1"
+                                                  css:table-row="6" css:vertical-align="top"
+                                                  dita-ot:x="2" dita-ot:y="7"
+                                                  headers="unique_13__unique_13_Connect_42_def_user_accounts__entry__2 ">
+                                                  <code class="+ topic/ph pr-d/codeph ph codeph"
+                                                  css:display="inline" css:font-family="monospace"
+                                                  css:font-size="smaller"
+                                                  css:oxy-pdf-tag-type="Code">admin</code>
+                                                  </td>
+                                                  <td
+                                                  xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
+                                                  class="- topic/entry entry colsep-1 rowsep-1"
+                                                  colname="col3" css:border-bottom-style="solid"
+                                                  css:border-bottom-width="1px"
+                                                  css:border-right-style="solid"
+                                                  css:border-right-width="1px"
+                                                  css:display="table-cell" css:table-column="2"
+                                                  css:table-row="6" css:vertical-align="top"
+                                                  dita-ot:x="3" dita-ot:y="7"
+                                                  headers="unique_13__unique_13_Connect_42_def_user_accounts__entry__3 ">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  >Administrative account for accessingIBM StoredIQ
+                                                  Administrator and IBMStoredIQ Data Server. Use
+                                                  this accountfor the initial setup of IBM StoredIQ
+                                                  andto create further administrativeaccounts for
+                                                  routine administration sothat their actions can be
+                                                  audited.</p>
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">Change
+                                                  the password in IBM StoredIQAdministrator: go to
+                                                  <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Users</strong> and edit thesuperadmin
+                                                  account.</p>
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">The
+                                                  <code class="+ topic/ph pr-d/codeph ph codeph"
+                                                  css:display="inline" css:font-family="monospace"
+                                                  css:font-size="smaller"
+                                                  css:oxy-pdf-tag-type="Code">superadmin</code>
+                                                  account has access toall IBM StoredIQ applications
+                                                  on theapplication stack. To switchapplications,
+                                                  click the triangle arrowicon and select the
+                                                  application that youwant to access from the list
+                                                  of theavailable applications.</p>
+                                                  </td>
+                                                  </tr>
+                                                  </tbody>
+                                                </table>
+                                            </section>
+                                        </div>
+                                    </article>
+                                </article>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </body>
+        </html>
+    </css:page-sequence>
+    <css:page-sequence xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter">
+        <html css:counter-reset=" page 1" css:display="block"
+            css:font-family="serif, Times, Times New Roman, Symbol, MingLiU, MS Mincho, Arial Unicode MS"
+            css:font-size="12px"
+            xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/MASTER_IBM-Guide.ditamap">
+            <body class="wh_topic_page" css:display="block" css:font-size="11.5pt"
+                css:margin-left="auto" css:margin-right="auto">
+                <div class="wh_content_area" css:display="block">
+                    <div class="wh_topic_body" css:display="block">
+                        <div class="wh_topic_content" css:display="block">
+                            <div xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+                                cascade="merge" class="- map/map map"
+                                css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0"
+                                css:display="block" ditaarch:ditaarchversion="1.3"
+                                domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)"
+                                lang="en" xml:lang="en">
+                                <article aria-labelledby="ariaid-title14" break-before="true"
+                                    class="- topic/topic concept/concept topic concept nested0"
+                                    css:display="block" css:margin-top="1em"
+                                    css:oxy-pdf-tag-type="Sect" id="unique_14" is-chapter="true"
+                                    nd:nd-id="deploying" oid="deploying"
+                                    topicrefclass="- map/topicref ">
+                                    <h1 class="- topic/title title topictitle1"
+                                        css:bookmark-level="1" css:display="block"
+                                        css:font-size="2em" css:margin-bottom="1em"
+                                        css:margin-left="0" css:margin-right="0" css:margin-top="0"
+                                        css:oxy-pdf-tag-type="H1" css:page-break-after="avoid"
+                                        id="ariaid-title14"><css:string-set name="chaptertitle"
+                                                ><css:text> | </css:text><css:counter name="chapter"
+                                                value="4"/><css:text> - </css:text><css:content
+                                                source="text"
+                                                /></css:string-set><css:bookmark-label><css:content
+                                                source="before"/><css:content source="text"
+                                            /></css:bookmark-label><css:before css:display="inline"
+                                                ><css:text>Chapter </css:text><css:counter
+                                                name="chapter" value="4"/><css:text>.
+                                            </css:text></css:before>Deploying IBM StoredIQ</h1>
+                                    <p class="- topic/shortdesc shortdesc" css:display="block"
+                                        css:margin-bottom="0.5em" css:margin-left="0"
+                                        css:margin-right="0" css:margin-top="0.5em">IBM StoredIQ is
+                                        a virtual appliance that you deploy and configure in a
+                                        VMWare virtual host environment.</p>
+                                    <article aria-labelledby="ariaid-title15"
+                                        class="- topic/topic task/task topic task nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_15" nd:nd-id="deploy_virtual_appliances"
+                                        oid="deploy_virtual_appliances"
+                                        topicrefclass="- map/topicref ">
+                                        <h2 class="- topic/title title topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title15"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Deploying the virtual
+                                            appliances</h2>
+                                        <div class="- topic/body task/taskbody body taskbody"
+                                            css:display="block" css:margin-bottom="0"
+                                            css:margin-left="0" css:margin-right="0"
+                                            css:margin-top="0">
+                                            <p class="- topic/shortdesc shortdesc"
+                                                css:display="block" css:margin-bottom="0.5em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0.5em"> </p>
+                                            <section
+                                                class="- topic/section task/context section context"
+                                                css:display="block" css:margin-bottom="1em"
+                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">Use
+                                                  VMware vSphere Client to deploy the virtual
+                                                  appliances to an ESX server. Deploy OVAs for
+                                                  thegateway, the data server, and the application
+                                                  stack, preferably in this order. If an
+                                                  Elasticsearch cluster isalso being deployed, those
+                                                  OVAs must be deployed first.</p>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">Ensure
+                                                  that all prerequisites for the deployment
+                                                  described in the planning section are met and that
+                                                  therequired software packages are available on
+                                                  your local system before you start this task.</p>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  >Download the latest version of IBM StoredIQ from
+                                                  either IBM Fix Central or IBM Passport Advantage®.
+                                                  Forinformation about the package names and part
+                                                  numbers and the links to the proper download
+                                                  locations,see the <a class="- topic/xref xref"
+                                                  css:color="blue" css:display="inline"
+                                                  css:link="https://www.ibm.com/support/pages/download-ibm-storediq-version-76019"
+                                                  css:text-decoration="underline" format="html"
+                                                  href="https://www.ibm.com/support/pages/download-ibm-storediq-version-76019"
+                                                  scope="external" target="_blank">download
+                                                  document<css:after css:display="inline"
+                                                  css:font-style="italic"
+                                                  css:link="https://www.ibm.com/support/pages/download-ibm-storediq-version-76019"
+                                                  css:text-decoration="underline"/></a>.</p>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">The
+                                                  number of Elasticsearch OVAs deployed depends on
+                                                  the planned size of your Elasticsearch cluster.The
+                                                  default setup is a three-node cluster. Each
+                                                  Elasticsearch node requires a separate OVA
+                                                  deployment.</p>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">The
+                                                  number of data server OVAs deployed depends on the
+                                                  number of data servers needed. Each dataserver
+                                                  requires a separate OVA deployment.</p>
+                                            </section>
+                                            <section css:display="block" css:oxy-pdf-tag-type="Sect">
+                                                <ol class="- topic/ol task/steps ol steps"
+                                                  css:display="block" css:list-style-type="decimal"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em">
+                                                  <li class="- topic/li task/step li step"
+                                                  css:display="list-item" css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Connect to the ESX server or
+                                                  vCenter server.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/step li step"
+                                                  css:display="list-item" css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Open VMware vSphere
+                                                  Client.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/step li step"
+                                                  css:display="list-item" css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Select <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">File
+                                                  &gt; Deploy OVF Template</strong>.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/step li step"
+                                                  css:display="list-item" css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Within the <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Deploy
+                                                  OVF Template</strong> wizard, complete these
+                                                  steps. </span>
+                                                  <ol class="- topic/ol task/substeps ol substeps"
+                                                  css:display="block" css:margin-bottom="0em"
+                                                  css:margin-top="0em" type="a">
+                                                  <li
+                                                  class="- topic/li task/substep li substep substepexpand"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-bottom="1em" css:margin-left="2em"
+                                                  css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Within the Select source
+                                                  page, click Local file, and then browse to and
+                                                  select the appropriate OVF.Click Next.</span>
+                                                  </li>
+                                                  <li
+                                                  class="- topic/li task/substep li substep substepexpand"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-bottom="1em" css:margin-left="2em"
+                                                  css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline"> Within the Review details
+                                                  page, review the OVF template details. </span>
+                                                  <div
+                                                  class="- topic/itemgroup task/info itemgroup info"
+                                                  css:display="block"> These storage requirements
+                                                  are critical and will be used to select a data
+                                                  store during deployment.Click Next to proceed.
+                                                  </div>
+                                                  </li>
+                                                  <li
+                                                  class="- topic/li task/substep li substep substepexpand"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-bottom="1em" css:margin-left="2em"
+                                                  css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Within the Select name and
+                                                  folder page, enter a name for the deployed
+                                                  template or use the defaultname. Click
+                                                  Next.</span>
+                                                  </li>
+                                                  <li
+                                                  class="- topic/li task/substep li substep substepexpand"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-bottom="1em" css:margin-left="2em"
+                                                  css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Within the Select a resource
+                                                  page, select the resource pool where the deployed
+                                                  OVF templateruns. Click Next.</span>
+                                                  </li>
+                                                  <li
+                                                  class="- topic/li task/substep li substep substepexpand"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-bottom="1em" css:margin-left="2em"
+                                                  css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Within the Select storage
+                                                  page, select a data store on which to store the
+                                                  deployed OVF templatefiles. Click Next.</span>
+                                                  </li>
+                                                  <li
+                                                  class="- topic/li task/substep li substep substepexpand"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-bottom="1em" css:margin-left="2em"
+                                                  css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Within the Disk Format list,
+                                                  select the disk format to be deployed. Note that
+                                                  although ThinProvision saves disk space, it can
+                                                  negatively affect performance. If possible, select
+                                                  ThickProvision Lazy Zeroed. Click Next.</span>
+                                                  </li>
+                                                  <li
+                                                  class="- topic/li task/substep li substep substepexpand"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-bottom="1em" css:margin-left="2em"
+                                                  css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Within the Network Mapping,
+                                                  map the network to the appropriate network. Click
+                                                  Next.</span>
+                                                  </li>
+                                                  <li
+                                                  class="- topic/li task/substep li substep substepexpand"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-bottom="1em" css:margin-left="2em"
+                                                  css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Within the Ready to Complete
+                                                  page, review the deployment settings. Click Finish
+                                                  to complete theDeploy OVF Template.</span>
+                                                  <div
+                                                  class="- topic/itemgroup task/info itemgroup info"
+                                                  css:display="block">At this point, you can select
+                                                  the Power on check box to turn on the VM after
+                                                  deployment iscomplete.</div>
+                                                  <div
+                                                  class="- topic/itemgroup task/info itemgroup info"
+                                                  css:display="block">
+                                                  <div
+                                                  class="- topic/note note important note_important"
+                                                  css:display="block" css:margin-bottom="1em"
+                                                  css:margin-top="1em" css:oxy-pdf-tag-type="Note"
+                                                  type="important"><span class="note__title"
+                                                  css:background-image="url('file:/C:/Program%20Files/Oxygen%20XML%20Editor%2021/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/img/attention.svg')"
+                                                  css:background-position="left"
+                                                  css:background-repeat="no-repeat"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  css:padding-bottom="4px" css:padding-left="23px"
+                                                  css:padding-right="4px" css:padding-top="4px"
+                                                  >Important:</span> If your IBM StoredIQ
+                                                  environment includes an Elasticsearch cluster, do
+                                                  not select this option when you're deploying the
+                                                  data server OVA. The Elasticsearch cluster setup
+                                                  must becomplete before you run the data server
+                                                  first-boot process.</div>
+                                                  </div>
+                                                  </li>
+                                                  </ol>
+                                                  </li>
+                                                  <li class="- topic/li task/step li step"
+                                                  css:display="list-item" css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Repeat steps 3 and 4 for each
+                                                  OVA.</span>
+                                                  </li>
+                                                </ol>
+                                            </section>
+                                            <section
+                                                class="- topic/section task/postreq section postreq"
+                                                css:display="block" css:margin-bottom="1em"
+                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  >Configure the components of your IBM StoredIQ
+                                                  environment in this order:</p>
+                                                <ol class="- topic/ol ol" css:display="block"
+                                                  css:list-style-type="decimal"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em">
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Elasticsearch cluster (if
+                                                  applicable)</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Gateway</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">One or more data
+                                                  servers</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Application stack</li>
+                                                </ol>
+                                            </section>
                                         </div>
                                     </article>
                                 </article>
