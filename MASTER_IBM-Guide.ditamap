@@ -4,9 +4,9 @@
     <title>IBM StoredIQ
         <sub><i>Deployment and Configuration Guide</i></sub>
     </title>
-    <topicref href="topics/concepts/about_this_publication.dita" navtitle="About this publication">
-        <topicref href="topics/concepts/ibm_storediq_product_library.dita" navtitle="IBM StoredIQ product library"/>
-        <topicref href="topics/concepts/Contact_cust_support.dita" navtitle="Contacting IBM StoredIQ customer support"/>
+    <topicref href="topics/concepts/about_this_publication.dita">
+        <topicref href="topics/concepts/ibm_storediq_product_library.dita"/>
+        <topicref href="topics/concepts/Contact_cust_support.dita"/>
     </topicref>
     <topicref href="topics/concepts/ibm_storediq_components.dita">
         <topicref href="topics/concepts/solution_components.dita"/>
@@ -14,7 +14,19 @@
     </topicref>
     <topicref href="topics/concepts/planning_for_deployment.dita">
         <topicref href="topics/concepts/ova_config.dita"/>
-        <topicref href="topics/concepts/network_port_reqs.dita"/>
+        <topicref href="topics/concepts/network_port_reqs.dita">
+            <topicref href="topics/references/tcp_port_ranges.dita"/>
+            <topicref href="topics/references/default_open_ports.dita">
+                <topicref href="topics/concepts/ssh_port22.dita"/>
+                <topicref href="topics/references/open_ports_appstack.dita"/>
+                <topicref href="topics/references/open_ports_data_server.dita"/>
+                <topicref href="topics/references/enable_ports_services.dita"/>
+                <topicref href="topics/references/open_ports_elasticsearch.dita"/>
+                <topicref href="topics/references/open_ports_gateway.dita"/>
+                <topicref href="topics/references/supported_chain_gateway.dita"/>
+                <topicref href="topics/tasks/open_ports_client_data_server.dita"/>
+            </topicref>
+        </topicref>
         <topicref href="topics/concepts/environment_sizing.dita"/>
         <topicref href="topics/concepts/stack_provisioning_prereq.dita"/>
         <topicref href="topics/concepts/license_usage_metrics.dita"/>
@@ -22,7 +34,9 @@
     </topicref>
     <topicref href="topics/concepts/deploying.dita">
         <topicref href="topics/tasks/deploy_virtual_appliances.dita"/>
+        <topicref href="topics/tasks/deploy_on_hyperv.dita"/>
     </topicref>
+    
         
     
     

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="open_ports_data_server">
+    <title>Default open ports on the IBM StoredIQ data server</title>
+    <refbody>
+        <table pgwide="1">
+            <tgroup cols="3" colsep="1" rowsep="1">
+                <thead>
+                    <row>
+                        <entry>Port number</entry>
+                        <entry>Protocol</entry>
+                        <entry>Service</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>22</entry>
+                        <entry>tcp</entry>
+                        <entry>PROD-ssh</entry>
+                    </row>
+                    <row>
+                        <entry>80</entry>
+                        <entry>tcp</entry>
+                        <entry>PROD-web</entry>
+                    </row>
+                    <row>
+                        <entry>443</entry>
+                        <entry>tcp</entry>
+                        <entry>PROD-https (UI and WebServices APIs)</entry>
+                    </row>
+                    <row>
+                        <entry>11103</entry>
+                        <entry morerows="1">tcp</entry>
+                        <entry morerows="1">PROD-transport (IBM StoredIQtransport services;communication between thegateway and the data server)</entry>
+                    </row>
+                    <row>
+                        <entry>11104</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

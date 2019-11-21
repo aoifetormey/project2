@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="open_ports_appstack">
+    <title>Default open ports on the AppStack</title>
+    <refbody>
+        <table>
+            <tgroup cols="2" colsep="1" rowsep="1">
+                <thead>
+                    <row>
+                        <entry>Port number</entry>
+                        <entry>Protocol</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>22</entry>
+                        <entry>tcp</entry>
+                    </row>
+                    <row>
+                        <entry>80</entry>
+                        <entry>tcp</entry>
+                    </row>
+                    <row>
+                        <entry>443</entry>
+                        <entry>tcp</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="open_ports_gateway">
+    <title>Default open ports on the IBM StoredIQ gateway</title>
+    <refbody>
+        <table pgwide="1">
+            <tgroup cols="3" colsep="1" rowsep="1">
+                <thead>
+                    <row>
+                        <entry>Port number</entry>
+                        <entry>Protocol</entry>
+                        <entry>Service</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>22</entry>
+                        <entry>tcp</entry>
+                        <entry>PROD-ssh</entry>
+                    </row>
+                    <row>
+                        <entry>80</entry>
+                        <entry>tcp</entry>
+                        <entry>PROD-web</entry>
+                    </row>
+                    <row>
+                        <entry>443</entry>
+                        <entry>tcp</entry>
+                        <entry>PROD-https (UI and WebServices APIs)</entry>
+                    </row>
+                    <row>
+                        <entry>5432</entry>
+                        <entry>tcp</entry>
+                        <entry>PROD-postgres</entry>
+                    </row>
+                    <row>
+                        <entry>5434</entry>
+                        <entry morerows="5">tcp</entry>
+                        <entry morerows="5">PROD-transport (IBM StoredIQtransport services;communication between thegateway and the data server)</entry>
+                    </row>
+                    <row>
+                        <entry>8765</entry>
+                    </row>
+                    <row>
+                        <entry>7766</entry>
+                    </row>
+                    <row>
+                        <entry>11102</entry>
+                    </row>
+                    <row>
+                        <entry>11103</entry>
+                    </row>
+                    <row>
+                        <entry>11104</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        
+    </refbody>
+</reference>

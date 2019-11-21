@@ -46,7 +46,69 @@
             </step>
             <step>
                 <cmd>Build a virtual machine.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Select New Virtual Machine > Next from Hyper-V Manager.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Enter the name of the virtual machine in the Specify Name and Location window and click Next.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select Generation of the machine in the Specify Generation window.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Enter the startup memory in the Assign Memory window.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select the correct network in the Configure Network window and click Next.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select Use an existing virtual hard disk in the Connect Virtual Hard Disk window. Search the disklocation, select one of the primary disks, and then click Next.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click Finish.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Repeat these previous steps for all IBM StoredIQ disks.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Optional: Add disks.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Select a virtual machine in Microsoft Hyper-V Manager.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select the settings for the virtual machine under Actions.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select the IDE controller and highlight Hard Drive in the Settings window.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select Hard Drive and virtual hard disk and click New.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click Next in the New Virtual Hard Disk wizard.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select VHDX in Choose Disk Format and then click Next.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select Dynamically expanding in Choose Disk Type and then click Next.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Enter a name for the disk in the Specify Name and Location window and the click Next.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select Create a new blank virtual hard disk and enter a size in the Configure Disk window andthen click Finish.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Repeat this procedure for all additional disks.</cmd>
+                    </substep>
+                </substeps>
             </step>
         </steps>
+        <postreq>Complete the installation process by following the instructions in “Configuring IBM StoredIQ” on page22.</postreq>
     </taskbody>
 </task>

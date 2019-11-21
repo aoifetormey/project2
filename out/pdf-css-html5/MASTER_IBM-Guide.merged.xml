@@ -4,10 +4,11 @@
 <?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 21/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
 <map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="dita-ot.sourceforge.net/ns/201007/dita-ot" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" xtrc="map:1;3:6" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/MASTER_IBM-Guide.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">IBM StoredIQ <sub class="+ topic/ph hi-d/sub "><i class="+ topic/ph hi-d/i ">Deployment and Configuration Guide</i></sub>  </title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
     <title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/title ">IBM StoredIQ <sub class="+ topic/ph hi-d/sub "><i class="+ topic/ph hi-d/i ">Deployment and Configuration Guide</i></sub>  </title>
-    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_1" navtitle="About this publication" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="about_this_publication"><resourceid appid="about_this_publication" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">About this publication</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "><term class="- topic/term ">IBM StoredIQ Deployment and Configuration Guide</term> provides information about how to plan, deploy, and configure the IBM StoredIQ product.     </shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_2" navtitle="IBM StoredIQ product library" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="ibm_storediq_product_library"><resourceid appid="ibm_storediq_product_library" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">IBM StoredIQ product library</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The following documents are available in the IBM® StoredIQ® product library.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" navtitle="Contacting IBM StoredIQ customer support" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="Contact_cust_support"><resourceid appid="Contact_cust_support" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Contacting IBM StoredIQ customer support</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref>
+    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="about_this_publication"><resourceid appid="about_this_publication" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">About this publication</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "><term class="- topic/term ">IBM StoredIQ Deployment and Configuration Guide</term> provides information about how to plan, deploy, and configure the IBM StoredIQ product.     </shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="ibm_storediq_product_library"><resourceid appid="ibm_storediq_product_library" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">IBM StoredIQ product library</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The following documents are available in the IBM® StoredIQ® product library.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="Contact_cust_support"><resourceid appid="Contact_cust_support" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Contacting IBM StoredIQ customer support</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref>
     <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="ibm_storediq_components"><resourceid appid="ibm_storediq_components" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">IBM StoredIQ components</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">         The IBM StoredIQ solution consists of these components: the application stack, the gateway, the data server, and optionally the Elasticsearch cluster.     </shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="solution_components"><resourceid appid="solution_components" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Solution components</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">IBM StoredIQ provides three solution components: the gateway, data servers, and application stack (AppStack).</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="applications_storediq"><resourceid appid="applications_storediq" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Applications of IBM StoredIQ </navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">         IBM StoredIQ provides interface applications that help fulfill its solution goals.     </shortdesc></topicmeta></topicref></topicref>
-    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="planning_for_deployment"><resourceid appid="planning_for_deployment" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Planning for deployment </navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_8" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="ova_config"><resourceid appid="ova_config" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Open Virtual Appliance (OVA) configuration requirements</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">IBM StoredIQ is deployed as virtual appliances and is supported in VMware ESXi 5.0 (all fix pack levels) or VMware ESXi 6.0 (all fix pack levels) environments. You must have a virtual infrastructure that meets the IBM StoredIQ hardware requirements. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="network_port_reqs"><resourceid appid="network_port_reqs" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Network and port requirements</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">For proper communication, the IBM StoredIQ components must be able to connect to each other.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_10" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="environment_sizing"><resourceid appid="environment_sizing" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Environment sizing guidelines</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">         To size an environment precisely, you must understand the factors such as harvest frequency, complexityof the source, and use case scenarios that drive application use and action execution.     </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_11" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="stack_provisioning_prereq"><resourceid appid="stack_provisioning_prereq" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Stack-provisioning prerequisites</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Before a deployment, verify that you meet these prerequisites.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_12" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="license_usage_metrics"><resourceid appid="license_usage_metrics" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">License usage metrics</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_13" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="security"><resourceid appid="security" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">Security</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Plan and implement specific security measures to protect the application and the data it manages,especially when you deploy IBM StoredIQ into sensitive environments.</shortdesc></topicmeta></topicref></topicref>
-    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_14" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="deploying"><resourceid appid="deploying" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Deploying IBM StoredIQ</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">IBM StoredIQ is a virtual appliance that you deploy and configure in a VMWare virtual host environment.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_15" type="task"><topicmeta class="- map/topicmeta " data-topic-id="deploy_virtual_appliances"><resourceid appid="deploy_virtual_appliances" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">Deploying the virtual appliances</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">     </shortdesc></topicmeta></topicref></topicref>
+    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="planning_for_deployment"><resourceid appid="planning_for_deployment" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Planning for deployment </navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_8" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="ova_config"><resourceid appid="ova_config" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Open Virtual Appliance (OVA) configuration requirements</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">IBM StoredIQ is deployed as virtual appliances and is supported in VMware ESXi 5.0 (all fix pack levels) or VMware ESXi 6.0 (all fix pack levels) environments. You must have a virtual infrastructure that meets the IBM StoredIQ hardware requirements. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="network_port_reqs"><resourceid appid="network_port_reqs" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Network and port requirements</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">For proper communication, the IBM StoredIQ components must be able to connect to each other.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_10" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="tcp_port_ranges"><resourceid appid="tcp_port_ranges" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">TCP: port ranges for the firewall</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">To ensure the network access for desktop volumes, the following port ranges must be open through a firewall.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_11" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="default_open_ports"><resourceid appid="default_open_ports" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Default open ports</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The following ports are open by default on the IBM StoredIQ.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_12" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="ssh_port22"><resourceid appid="ssh_port22" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">SSH port 22</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_13" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="open_ports_appstack"><resourceid appid="open_ports_appstack" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">Default open ports on the AppStack</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_14" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="open_ports_data_server"><resourceid appid="open_ports_data_server" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Default open ports on the IBM StoredIQ data server</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_15" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="enable_ports_services"><resourceid appid="enable_ports_services" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">Enable or disable ports or services on the IBM StoredIQ data server</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_16" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="open_ports_elasticsearch"><resourceid appid="open_ports_elasticsearch" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_16" class="- topic/navtitle ">Default open ports on the nodes in the Elasticsearch cluster</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_17" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="open_ports_gateway"><resourceid appid="open_ports_gateway" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_17" class="- topic/navtitle ">Default open ports on the IBM StoredIQ gateway</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_18" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="supported_chain_gateway"><resourceid appid="supported_chain_gateway" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_18" class="- topic/navtitle ">Supported chain and rules on the IBM StoredIQ gateway</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_19" type="task"><topicmeta class="- map/topicmeta " data-topic-id="open_ports_client_data_server"><resourceid appid="open_ports_client_data_server" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_19" class="- topic/navtitle ">Open ports for desktop client access to the data server</navtitle><?ditaot gentext?></topicmeta></topicref></topicref></topicref><topicref class="- map/topicref " href="#unique_20" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="environment_sizing"><resourceid appid="environment_sizing" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_20" class="- topic/navtitle ">Environment sizing guidelines</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">         To size an environment precisely, you must understand the factors such as harvest frequency, complexityof the source, and use case scenarios that drive application use and action execution.     </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_21" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="stack_provisioning_prereq"><resourceid appid="stack_provisioning_prereq" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_21" class="- topic/navtitle ">Stack-provisioning prerequisites</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Before a deployment, verify that you meet these prerequisites.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_22" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="license_usage_metrics"><resourceid appid="license_usage_metrics" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_22" class="- topic/navtitle ">License usage metrics</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_23" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="security"><resourceid appid="security" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_23" class="- topic/navtitle ">Security</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Plan and implement specific security measures to protect the application and the data it manages,especially when you deploy IBM StoredIQ into sensitive environments.</shortdesc></topicmeta></topicref></topicref>
+    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_24" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="deploying"><resourceid appid="deploying" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_24" class="- topic/navtitle ">Deploying IBM StoredIQ</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">IBM StoredIQ is a virtual appliance that you deploy and configure in a VMWare virtual host environment.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_25" type="task"><topicmeta class="- map/topicmeta " data-topic-id="deploy_virtual_appliances"><resourceid appid="deploy_virtual_appliances" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_25" class="- topic/navtitle ">Deploying the virtual appliances</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">     </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_26" type="task"><topicmeta class="- map/topicmeta " data-topic-id="deploy_on_hyperv"><resourceid appid="deploy_on_hyperv" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_26" class="- topic/navtitle ">Deploying IBM StoredIQ on Microsoft Hyper-V</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">As an alternative to installing on an ESX server, the IBM StoredIQ gateway, data server, and applicationstack can be installed on Microsoft Hyper-V. This option is not supported for the Elasticsearch virtualappliance.</shortdesc></topicmeta></topicref></topicref>
+    
         
     
     
@@ -44,10 +45,8 @@
         </ul>
             Or, see the Contact IBM web site at <xref class="- topic/xref " format="html" href="http://www.ibm.com/contact/us/" scope="external"><?ditaot usertext?>http://www.ibm.com/contact/us/</xref>.
         </p>
-        <section class="- topic/section ">
-            <title class="- topic/title ">IBM Knowledge Center</title>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">IBM Knowledge Center</b></p>
             <p class="- topic/p ">The IBM StoredIQ documentation is available in <xref class="- topic/xref " format="html" href="https://www.ibm.com/support/knowledgecenter/" scope="external"><?ditaot usertext?>IBM Knowledge Center</xref>.</p>
-        </section>
         <section class="- topic/section ">
             <title class="- topic/title ">Contacting IBM</title>
             <p class="- topic/p ">For general inquiries, call 800-IBM-4YOU (800-426-4968). To contact IBM customer service in the United States or Canada, call 1-800-IBM-SERV (1-800-426-7378).</p>
@@ -421,10 +420,12 @@
             <li class="- topic/li ">Ports 80, 443, and 22 from the administrative workstation to the application stack and data server IPaddresses</li>
             <li class="- topic/li ">Port 22 from the administrative workstation to the gateway IP address.</li>
         </ul>
-        
+    </conbody>
+<reference class="- topic/topic       reference/reference " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="tcp_port_ranges" oid="tcp_port_ranges">
+    <title class="- topic/title ">TCP: port ranges for the firewall</title>
+    <shortdesc class="- topic/shortdesc ">To ensure the network access for desktop volumes, the following port ranges must be open through a firewall.</shortdesc>
+    <refbody class="- topic/body        reference/refbody "> 
         <section class="- topic/section ">
-            <title class="- topic/title ">TCP: port ranges for the firewall</title>
-            <p class="- topic/p ">To ensure the network access for desktop volumes, the following port ranges must be open through a firewall.</p>
             <ul class="- topic/ul ">
                 <li class="- topic/li ">21000-21004</li>
                 <li class="- topic/li ">21100-21101</li>
@@ -432,13 +433,303 @@
                 <li class="- topic/li ">21200-21204</li>
             </ul>
         </section>
-        
-        <section class="- topic/section ">
-            <title class="- topic/title ">Default open ports</title>
-            <p class="- topic/p ">The following ports are open by default on the IBM StoredIQ.</p>
-        </section>
+    </refbody>
+</reference><reference class="- topic/topic       reference/reference " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="default_open_ports" oid="default_open_ports">
+    <title class="- topic/title ">Default open ports</title>
+    <shortdesc class="- topic/shortdesc ">The following ports are open by default on the IBM StoredIQ.</shortdesc>
+<concept class="- topic/topic concept/concept " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="ssh_port22" oid="ssh_port22">
+    <title class="- topic/title ">SSH port 22</title>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">By default, port 22 is open on all IBM StoredIQ hosts. The port is used for Secure Shell (SSH)communication and allows remote administration access to the VM. In general, traffic is encrypted usingpassword authentication. To add a layer of security, you can establish key-based authentication forpasswordless SSH logins to any of the IBM StoredIQ nodes in your environment as described in“Configuring SSH key-based authentication” on page 45.</p>
     </conbody>
-</concept><concept class="- topic/topic concept/concept " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="environment_sizing" oid="environment_sizing">
+</concept><reference class="- topic/topic       reference/reference " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="open_ports_appstack" oid="open_ports_appstack">
+    <title class="- topic/title ">Default open ports on the AppStack</title>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table ">
+            <tgroup class="- topic/tgroup " cols="2" colsep="1" rowsep="1">
+                <colspec class="- topic/colspec " colname="col1" colnum="1"/><colspec class="- topic/colspec " colname="col2" colnum="2"/><thead class="- topic/thead ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;10:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_appstack.dita">Port number</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;11:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_appstack.dita">Protocol</entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:3;16:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_appstack.dita">22</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:4;17:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_appstack.dita">tcp</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:5;20:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_appstack.dita">80</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:6;21:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_appstack.dita">tcp</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:7;24:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_appstack.dita">443</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:8;25:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_appstack.dita">tcp</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference><reference class="- topic/topic       reference/reference " id="unique_14" topicrefclass="- map/topicref " nd:nd-id="open_ports_data_server" oid="open_ports_data_server">
+    <title class="- topic/title ">Default open ports on the IBM StoredIQ data server</title>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " pgwide="1">
+            <tgroup class="- topic/tgroup " cols="3" colsep="1" rowsep="1">
+                <colspec class="- topic/colspec " colname="col1" colnum="1"/><colspec class="- topic/colspec " colname="col2" colnum="2"/><colspec class="- topic/colspec " colname="col3" colnum="3"/><thead class="- topic/thead ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;10:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_data_server.dita">Port number</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;11:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_data_server.dita">Protocol</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:3;12:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_data_server.dita">Service</entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:4;17:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_data_server.dita">22</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:5;18:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_data_server.dita">tcp</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:6;19:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_data_server.dita">PROD-ssh</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:7;22:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_data_server.dita">80</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:8;23:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_data_server.dita">tcp</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:9;24:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_data_server.dita">PROD-web</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:10;27:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_data_server.dita">443</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:11;28:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_data_server.dita">tcp</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:12;29:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_data_server.dita">PROD-https (UI and WebServices APIs)</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:13;32:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_data_server.dita">11103</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" morerows="1" xtrc="entry:14;33:45" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_data_server.dita" rowspan="2">tcp</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5" morerows="1" xtrc="entry:15;34:45" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_data_server.dita" rowspan="2">PROD-transport (IBM StoredIQtransport services;communication between thegateway and the data server)</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:16;37:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_data_server.dita">11104</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference><reference class="- topic/topic       reference/reference " id="unique_15" topicrefclass="- map/topicref " nd:nd-id="enable_ports_services" oid="enable_ports_services">
+    <title class="- topic/title ">Enable or disable ports or services on the IBM StoredIQ data server</title>
+    <refbody class="- topic/body        reference/refbody ">
+        <section class="- topic/section ">
+            <p class="- topic/p ">To manage ports, you can use the /usr/local/storediq/bin/util/port_handler.pyc script withthe appropriate parameter:</p>
+            <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve">
+                python /usr/local/storediq/bin/util/port_handler.pyc -<i class="+ topic/ph hi-d/i ">parameter</i>
+            </codeblock>
+            <dl class="- topic/dl ">
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">-s</dt>
+                    <dd class="- topic/dd ">To list the current rules in iptables</dd>
+                </dlentry>
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">-l</dt>
+                    <dd class="- topic/dd ">To list the supported services</dd>
+                </dlentry>
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">-d port_number|'port_range'</dt>
+                    <dd class="- topic/dd ">To delete a port or a range of port numbers from iptables, for example:
+                        <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve">python /usr/local/storediq/bin/util/port_handler.pyc -d '21200:21299'</codeblock>
+                    </dd>
+                </dlentry>
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">-e 'service_name'</dt>
+                    <dd class="- topic/dd ">To enable a specific service, for example, to enable HTTPS services:
+                        <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve">
+                            python /usr/local/storediq/bin/util/port_handler.pyc -e 'PROD-https'     
+                        </codeblock>
+                    </dd>
+                </dlentry>
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">-d 'service_name'</dt>
+                    <dd class="- topic/dd ">To disable a specific service, for example, to disable HTTPS services:
+                        <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve">python /usr/local/storediq/bin/util/port_handler.pyc -d 'PROD-https'</codeblock>
+                    </dd>
+                </dlentry>
+            </dl>
+        </section>
+    </refbody>
+</reference><reference class="- topic/topic       reference/reference " id="unique_16" topicrefclass="- map/topicref " nd:nd-id="open_ports_elasticsearch" oid="open_ports_elasticsearch">
+    <title class="- topic/title ">Default open ports on the nodes in the Elasticsearch cluster</title>
+    <refbody class="- topic/body        reference/refbody "> 
+        <table class="- topic/table " pgwide="1">
+            <tgroup class="- topic/tgroup " cols="3" colsep="1" rowsep="1">
+                <colspec class="- topic/colspec " colname="col1" colnum="1"/><colspec class="- topic/colspec " colname="col2" colnum="2"/><colspec class="- topic/colspec " colname="col3" colnum="3"/><thead class="- topic/thead ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;10:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_elasticsearch.dita">Port number</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;11:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_elasticsearch.dita">Protocol</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:3;12:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_elasticsearch.dita">Service</entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:4;17:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_elasticsearch.dita">21</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:5;18:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_elasticsearch.dita">tcp</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:6;19:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_elasticsearch.dita">ftp</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:7;22:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_elasticsearch.dita">22</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:8;23:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_elasticsearch.dita">tcp</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:9;24:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_elasticsearch.dita">sshd</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:10;27:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_elasticsearch.dita">80</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:11;28:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_elasticsearch.dita">tcp</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:12;29:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_elasticsearch.dita"/>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:13;32:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_elasticsearch.dita">443</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:14;33:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_elasticsearch.dita">tcp</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5" xtrc="entry:15;34:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_elasticsearch.dita"/>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:16;37:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_elasticsearch.dita">8888</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:17;38:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_elasticsearch.dita">tcp</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6" xtrc="entry:18;39:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_elasticsearch.dita">SimpleHTTPServer (used forcopying the siq-elasticsearch.ymlconfigurationfile from theElasticsearch node to the dataserver)</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7" xtrc="entry:19;42:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_elasticsearch.dita">9200</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7" xtrc="entry:20;43:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_elasticsearch.dita">tcp6</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7" xtrc="entry:21;44:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_elasticsearch.dita">
+                            <p class="- topic/p ">docker-proxy (listening for RESTrequests)</p>
+                            <p class="- topic/p ">You can restrict access to thisport by either enabling SearchGuard or by setting up a firewall.For more information, see“Securing Elasticsearch clustercommunication with SearchGuard” on page 51 or“Restricting access to port 9200on Elasticsearch nodes” on page52.</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8" xtrc="entry:22;50:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_elasticsearch.dita">9300</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8" xtrc="entry:23;51:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_elasticsearch.dita">tcp6</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="8" xtrc="entry:24;52:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_elasticsearch.dita">docker-proxy (internodecommunication)</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference><reference class="- topic/topic       reference/reference " id="unique_17" topicrefclass="- map/topicref " nd:nd-id="open_ports_gateway" oid="open_ports_gateway">
+    <title class="- topic/title ">Default open ports on the IBM StoredIQ gateway</title>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " pgwide="1">
+            <tgroup class="- topic/tgroup " cols="3" colsep="1" rowsep="1">
+                <colspec class="- topic/colspec " colname="col1" colnum="1"/><colspec class="- topic/colspec " colname="col2" colnum="2"/><colspec class="- topic/colspec " colname="col3" colnum="3"/><thead class="- topic/thead ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;10:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_gateway.dita">Port number</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;11:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_gateway.dita">Protocol</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:3;12:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_gateway.dita">Service</entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:4;17:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_gateway.dita">22</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:5;18:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_gateway.dita">tcp</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:6;19:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_gateway.dita">PROD-ssh</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:7;22:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_gateway.dita">80</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:8;23:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_gateway.dita">tcp</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:9;24:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_gateway.dita">PROD-web</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:10;27:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_gateway.dita">443</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:11;28:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_gateway.dita">tcp</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:12;29:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_gateway.dita">PROD-https (UI and WebServices APIs)</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:13;32:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_gateway.dita">5432</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:14;33:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_gateway.dita">tcp</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5" xtrc="entry:15;34:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_gateway.dita">PROD-postgres</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:16;37:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_gateway.dita">5434</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" morerows="5" xtrc="entry:17;38:45" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_gateway.dita" rowspan="6">tcp</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6" morerows="5" xtrc="entry:18;39:45" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_gateway.dita" rowspan="6">PROD-transport (IBM StoredIQtransport services;communication between thegateway and the data server)</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7" xtrc="entry:19;42:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_gateway.dita">8765</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8" xtrc="entry:20;45:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_gateway.dita">7766</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="9" xtrc="entry:21;48:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_gateway.dita">11102</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="10" xtrc="entry:22;51:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_gateway.dita">11103</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="11" xtrc="entry:23;54:32" xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/topics/references/open_ports_gateway.dita">11104</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        
+    </refbody>
+</reference><reference class="- topic/topic       reference/reference " id="unique_18" topicrefclass="- map/topicref " nd:nd-id="supported_chain_gateway" oid="supported_chain_gateway">
+    <title class="- topic/title ">Supported chain and rules on the IBM StoredIQ gateway</title>
+    <refbody class="- topic/body        reference/refbody "> 
+        <section class="- topic/section ">
+            <p class="- topic/p ">In iptables, the following firewall and chain rules are defined:</p>
+            <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve">
+                'PROD-transport':['5434','8765','7766','11102','11103','11104'],            
+                    'PROD-https':['443'],
+                    'PROD-ssh':['22'],            
+                    'PROD-web':['80'],            
+                    'PROD-postgres':[’5432’]
+            </codeblock>
+            <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve">
+                'desktop' service:            
+                        'PROD-broker':['21000'],            
+                        'PROD-collectionsvc':['21300:21399'],            
+                        'PROD-desktopupgrade':['21004'],            
+                        'PROD-objlistmgr':['21100:21199'],            
+                        'PROD-objlistsvc':['21200:21299'],            
+                        'PROD-registration':['21001'],            
+                        'PROD-session':['21002'],            
+                        'PROD-task':['21003'],
+            </codeblock>
+        </section>
+    </refbody>
+</reference><task class="- topic/topic task/task " id="unique_19" topicrefclass="- map/topicref " nd:nd-id="open_ports_client_data_server" oid="open_ports_client_data_server">
+    <title class="- topic/title ">Open ports for desktop client access to the data server</title>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            To open ports for desktop client access to the data server on OVA deployed systems, follow these steps:
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">
+                    Log in to the data server as root and run this command:
+                </cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve">python /usr/local/storediq/bin/util/port_handler.pyc -e desktop</codeblock>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Run this command: <codeph class="+ topic/ph pr-d/codeph ">iptables -L INPUT</codeph></cmd>
+                <info class="- topic/itemgroup task/info ">
+                    In the output of the command, check the list position of the rule that is named <codeph class="+ topic/ph pr-d/codeph ">PROD-reject</codeph>, forexample, the 6th position on the list.
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Run this command: <codeph class="+ topic/ph pr-d/codeph ">iptables -A INPUT -j PROD-reject</codeph></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Run this command: <codeph class="+ topic/ph pr-d/codeph ">iptables -D INPUT list_position</codeph></cmd>
+                <info class="- topic/itemgroup task/info "><term class="- topic/term ">list_position</term> is the position number of the PROD-reject rule that you determined in step 2.</info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Run the following command:</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve">
+                        python /usr/local/storediq/bin/util/port_handler.pyc -e desktop
+                    </codeblock>
+                </info>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq ">
+            <note class="- topic/note " type="tip">These steps are required only on an IBM StoredIQ OVA deployed system. The correct ports are openon an upgraded system.</note>
+        </postreq>
+    </taskbody>
+</task></reference></concept><concept class="- topic/topic concept/concept " id="unique_20" topicrefclass="- map/topicref " nd:nd-id="environment_sizing" oid="environment_sizing">
     <title class="- topic/title ">Environment sizing guidelines</title>
     <shortdesc class="- topic/shortdesc ">
         To size an environment precisely, you must understand the factors such as harvest frequency, complexityof the source, and use case scenarios that drive application use and action execution.
@@ -481,7 +772,7 @@
             </ul>
         </section>
     </conbody>
-</concept><concept class="- topic/topic concept/concept " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="stack_provisioning_prereq" oid="stack_provisioning_prereq">
+</concept><concept class="- topic/topic concept/concept " id="unique_21" topicrefclass="- map/topicref " nd:nd-id="stack_provisioning_prereq" oid="stack_provisioning_prereq">
     <title class="- topic/title ">Stack-provisioning prerequisites</title>
     <shortdesc class="- topic/shortdesc ">Before a deployment, verify that you meet these prerequisites.</shortdesc>
     <conbody class="- topic/body  concept/conbody ">
@@ -502,7 +793,7 @@
             <li class="- topic/li ">A management station computer or notebook from where the load-management work is done.</li>
         </ul>
     </conbody>
-</concept><concept class="- topic/topic concept/concept " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="license_usage_metrics" oid="license_usage_metrics">
+</concept><concept class="- topic/topic concept/concept " id="unique_22" topicrefclass="- map/topicref " nd:nd-id="license_usage_metrics" oid="license_usage_metrics">
     <title class="- topic/title ">License usage metrics</title>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">Using the IBM License Metric Tool, you can generate license consumption reports that count IBMStoredIQ license usage.</p>
@@ -531,7 +822,7 @@
             <p class="- topic/p ">For more information about using IBM License Metric Tool, see the <xref class="- topic/xref " format="html" href="https://www.ibm.com/support/knowledgecenter/SS8JFY_9.2.0/com.ibm.lmt.doc/welcome/LMT_welcome.html" scope="external"><?ditaot usertext?>IBM License Metric Tool documentation</xref></p>
         </section>
     </conbody>
-</concept><concept class="- topic/topic concept/concept " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="security" oid="security">
+</concept><concept class="- topic/topic concept/concept " id="unique_23" topicrefclass="- map/topicref " nd:nd-id="security" oid="security">
     <title class="- topic/title ">Security</title>
     <shortdesc class="- topic/shortdesc ">Plan and implement specific security measures to protect the application and the data it manages,especially when you deploy IBM StoredIQ into sensitive environments.</shortdesc>
     <conbody class="- topic/body  concept/conbody ">
@@ -568,7 +859,7 @@
         </section>
         <section class="- topic/section ">
             <title class="- topic/title ">Access control</title>
-            <p class="- topic/p ">The following administrative accounts are required. The builder and siqadmin accounts are IBMStoredIQ-specific accounts. For more information about these accounts, see <xref class="- topic/xref " href="#unique_13" type="concept"><?ditaot usertext?>“Default user accounts”<?ditaot genshortdesc?><desc class="- topic/desc ">Plan and implement specific security measures to protect the application and the data it manages,especially when you deploy IBM StoredIQ into sensitive environments.</desc></xref> onpage 17.</p>
+            <p class="- topic/p ">The following administrative accounts are required. The builder and siqadmin accounts are IBMStoredIQ-specific accounts. For more information about these accounts, see <xref class="- topic/xref " href="#unique_23" type="concept"><?ditaot usertext?>“Default user accounts”<?ditaot genshortdesc?><desc class="- topic/desc ">Plan and implement specific security measures to protect the application and the data it manages,especially when you deploy IBM StoredIQ into sensitive environments.</desc></xref> onpage 17.</p>
             <dl class="- topic/dl ">
                 <dlentry class="- topic/dlentry ">
                     <dt class="- topic/dt "><codeph class="+ topic/ph pr-d/codeph ">root</codeph> and <codeph class="+ topic/ph pr-d/codeph ">builder</codeph> accounts on the Elasticsearch cluster nodes</dt>
@@ -586,7 +877,7 @@
                 </dlentry>
             </dl>
         </section>
-        <section class="- topic/section " id="unique_13_Connect_42_def_user_accounts" nd:nd-id="def_user_accounts">
+        <section class="- topic/section " id="unique_23_Connect_42_def_user_accounts" nd:nd-id="def_user_accounts">
             <title class="- topic/title ">Default user accounts</title>
             <p class="- topic/p ">IBM StoredIQ comes with a set of default user accounts.</p>
             <p class="- topic/p ">For security reasons, change the passwords for these default accounts after the installation is completeso that they are unique and different from the default values. The new password must be 8 to 64characters long and must contain characters from at least three of these categories:</p>
@@ -657,10 +948,10 @@
             </table>
         </section>
     </conbody>
-</concept></concept><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_14" topicrefclass="- map/topicref " nd:nd-id="deploying" oid="deploying">
+</concept></concept><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_24" topicrefclass="- map/topicref " nd:nd-id="deploying" oid="deploying">
     <title class="- topic/title ">Deploying IBM StoredIQ</title>
     <shortdesc class="- topic/shortdesc ">IBM StoredIQ is a virtual appliance that you deploy and configure in a VMWare virtual host environment.</shortdesc>
-<task class="- topic/topic task/task " id="unique_15" topicrefclass="- map/topicref " nd:nd-id="deploy_virtual_appliances" oid="deploy_virtual_appliances">
+<task class="- topic/topic task/task " id="unique_25" topicrefclass="- map/topicref " nd:nd-id="deploy_virtual_appliances" oid="deploy_virtual_appliances">
     <title class="- topic/title ">Deploying the virtual appliances</title>
     <shortdesc class="- topic/shortdesc ">
     </shortdesc>
@@ -733,5 +1024,116 @@
                 <li class="- topic/li ">Application stack</li>
             </ol>
         </postreq>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_26" topicrefclass="- map/topicref " nd:nd-id="deploy_on_hyperv" oid="deploy_on_hyperv">
+    <title class="- topic/title ">Deploying IBM StoredIQ on Microsoft Hyper-V</title>
+    <shortdesc class="- topic/shortdesc ">As an alternative to installing on an ESX server, the IBM StoredIQ gateway, data server, and applicationstack can be installed on Microsoft Hyper-V. This option is not supported for the Elasticsearch virtualappliance.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Installing IBM StoredIQ on Microsoft Hyper-V requires the use of third-party software. For the proceduredescribed here, the following software prerequisites must be met:</p>
+            <ul class="- topic/ul ">
+                <li class="- topic/li ">Microsoft Hyper-V Manager must be installed on a Windows system.</li>
+                <li class="- topic/li ">7-zip for Windows or tar for the Linux operating system must be available to extract contents of theOVA.</li>
+                <li class="- topic/li ">7-zip for Windows or gunzip for the Linux operating system must be installed to decompress thevmdk.gzfile.</li>
+                <li class="- topic/li ">Microsoft Virtual Machine Converter 3.0 (Windows) or qemu-img (Linux) or must be installed to convertthe files from VMWare .vmdkfiles to Hyper-V .vhdxfiles.</li>
+            </ul>
+            <p class="- topic/p ">Microsoft Hyper-V does not support OVAs and OVFs. The virtual machine needs to be built manually.</p>
+            <p class="- topic/p ">Consider the following instructions a sample procedure. The instructions might differ depending on theversion of the third-party software.</p>
+            <p class="- topic/p ">Complete these steps for the gateway, the data server, and the AppStack:</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Extract the vmdkfile from the OVA.</cmd>
+                <substeps class="- topic/ol task/substeps ">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Download the OVA.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Extract the contents of the OVA by using 7-zip for Windows or tar for the Linux operating system.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Decompress the vmdk.gz archive by using 7-zip for Windows or gunzip for Linux.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Delete everything except the vmdkfile when the OVA extraction is complete.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Convert the VMWare .vmdk file to a Microsoft Hyper-V .vhdx file.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p ">For instructions about converting .vmdk files to .vhdx files, see the following links:</p>
+                    <ul class="- topic/ul ">
+                        <li class="- topic/li "><xref class="- topic/xref " format="html" href="https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/dn874008(v=ws.11)?redirectedfrom=MSDN" scope="external"/>Use Microsoft Virtual Machine Converter</li>
+                        <li class="- topic/li "><xref class="- topic/xref " format="html" href="https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/virtualization/sect-virtualization-tips_and_tricks-using_qemu_img" scope="external"/>Using qemu-img</li>
+                    </ul>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Build a virtual machine.</cmd>
+                <substeps class="- topic/ol task/substeps ">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select New Virtual Machine &gt; Next from Hyper-V Manager.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Enter the name of the virtual machine in the Specify Name and Location window and click Next.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select Generation of the machine in the Specify Generation window.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Enter the startup memory in the Assign Memory window.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select the correct network in the Configure Network window and click Next.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select Use an existing virtual hard disk in the Connect Virtual Hard Disk window. Search the disklocation, select one of the primary disks, and then click Next.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Click Finish.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Repeat these previous steps for all IBM StoredIQ disks.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Optional: Add disks.</cmd>
+                <substeps class="- topic/ol task/substeps ">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select a virtual machine in Microsoft Hyper-V Manager.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select the settings for the virtual machine under Actions.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select the IDE controller and highlight Hard Drive in the Settings window.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select Hard Drive and virtual hard disk and click New.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Click Next in the New Virtual Hard Disk wizard.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select VHDX in Choose Disk Format and then click Next.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select Dynamically expanding in Choose Disk Type and then click Next.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Enter a name for the disk in the Specify Name and Location window and the click Next.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select Create a new blank virtual hard disk and enter a size in the Configure Disk window andthen click Finish.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Repeat this procedure for all additional disks.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq ">Complete the installation process by following the instructions in “Configuring IBM StoredIQ” on page22.</postreq>
     </taskbody>
 </task></concept></map>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="Notice">
+    <title></title>
+    <shortdesc></shortdesc>
+    <refbody>
+        <table pgwide="1">
+            <tgroup cols="1" colsep="1" rowsep="1">
+                <tbody>
+                    <row>
+                        <entry>
+                            <note type="note">
+                                Before using this information and the product it supports, read the information in <xref href="network_port_requirements.dita"></xref>Notices.
+                            </note>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        
+    </refbody>
+</reference>

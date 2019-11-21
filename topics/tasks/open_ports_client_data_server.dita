@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="open_ports_client_data_server">
+    <title>Open ports for desktop client access to the data server</title>
+    <taskbody>
+        <context>
+            To open ports for desktop client access to the data server on OVA deployed systems, follow these steps:
+        </context>
+        <steps>
+            <step>
+                <cmd>
+                    Log in to the data server as root and run this command:
+                </cmd>
+                <info>
+                    <codeblock>python /usr/local/storediq/bin/util/port_handler.pyc -e desktop</codeblock>
+                </info>
+            </step>
+            <step>
+                <cmd>Run this command: <codeph>iptables -L INPUT</codeph></cmd>
+                <info>
+                    In the output of the command, check the list position of the rule that is named <codeph>PROD-reject</codeph>, forexample, the 6th position on the list.
+                </info>
+            </step>
+            <step>
+                <cmd>Run this command: <codeph>iptables -A INPUT -j PROD-reject</codeph></cmd>
+            </step>
+            <step>
+                <cmd>Run this command: <codeph>iptables -D INPUT list_position</codeph></cmd>
+                <info><term>list_position</term> is the position number of the PROD-reject rule that you determined in step 2.</info>
+            </step>
+            <step>
+                <cmd>Run the following command:</cmd>
+                <info>
+                    <codeblock>python /usr/local/storediq/bin/util/port_handler.pyc -e desktop
+                    </codeblock>
+                </info>
+            </step>
+        </steps>
+        <postreq>
+            <note type="tip">These steps are required only on an IBM StoredIQ OVA deployed system. The correct ports are openon an upgraded system.</note>
+        </postreq>
+    </taskbody>
+</task>
