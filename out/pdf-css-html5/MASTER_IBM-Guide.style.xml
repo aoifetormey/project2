@@ -1355,6 +1355,45 @@
                                             </div>
                                         </div>
                                     </div>
+                                    <div class="- map/topicref topicref" css:display="block"
+                                        css:font-weight="bold" css:margin-bottom="0.5em"
+                                        css:margin-left="0" css:margin-top="0.5em" href="#unique_27"
+                                        is-chapter="true" type="glossgroup">
+                                        <div class="- map/topicmeta topicmeta"
+                                            css:border-bottom-color="transparent"
+                                            css:border-bottom-style="none"
+                                            css:border-left-color="transparent"
+                                            css:border-left-style="none"
+                                            css:border-right-color="transparent"
+                                            css:border-right-style="none"
+                                            css:border-top-color="transparent"
+                                            css:border-top-style="none" css:display="block"
+                                            css:margin-bottom="0" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="0"
+                                            css:padding-bottom="0" css:padding-left="0"
+                                            css:padding-right="0" css:padding-top="0"
+                                            data-topic-id="glossary">
+                                            <css:before css:display="inline"/>
+                                            <div appid="glossary"
+                                                class="- topic/resourceid resourceid"
+                                                css:display="none" oxy-source="topic"/>
+                                            <div class="- topic/navtitle navtitle"
+                                                css:display="block" css:link="#unique_27"
+                                                css:text-align-last="justify" href="#unique_27">
+                                                <css:before css:display="inline"
+                                                  css:link="#unique_27">
+                                                  <css:text>Chapter </css:text>
+                                                  <css:counter name="toc-chapter" value="5"/>
+                                                  <css:text>. </css:text>
+                                                </css:before>
+                                                <css:after css:display="inline"
+                                                  css:link="#unique_27">
+                                                  <css:leader pattern="."/>
+                                                  <css:target-counter url-fragment="unique_27"/>
+                                                </css:after>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -3457,8 +3496,7 @@
                                                   manage ports, you can use the
                                                   /usr/local/storediq/bin/util/port_handler.pyc
                                                   script withthe appropriate parameter:</p>
-                                                  <pre class="+ topic/pre pr-d/codeblock pre codeblock" css:background-color="rgb(238 , 238 , 238)" css:display="block" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="0.5em" css:margin-left="0.5em" css:margin-right="0" css:margin-top="0.5em" css:max-height="600px" css:oxy-pdf-tag-type="Code" css:padding-bottom="0.5em" css:padding-left="0.5em" css:padding-right="0.5em" css:padding-top="0.5em" css:white-space="pre-wrap" xml:space="preserve"><code css:display="inline" css:font-family="monospace" css:font-size="smaller">
-                python /usr/local/storediq/bin/util/port_handler.pyc -<em class="+ topic/ph hi-d/i ph i" css:display="inline" css:font-style="italic">parameter</em>
+                                                  <pre class="+ topic/pre pr-d/codeblock pre codeblock" css:background-color="rgb(238 , 238 , 238)" css:display="block" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="0.5em" css:margin-left="0.5em" css:margin-right="0" css:margin-top="0.5em" css:max-height="600px" css:oxy-pdf-tag-type="Code" css:padding-bottom="0.5em" css:padding-left="0.5em" css:padding-right="0.5em" css:padding-top="0.5em" css:white-space="pre-wrap" xml:space="preserve"><code css:display="inline" css:font-family="monospace" css:font-size="smaller">python /usr/local/storediq/bin/util/port_handler.pyc -<em class="+ topic/ph hi-d/i ph i" css:display="inline" css:font-style="italic">parameter</em>
             </code></pre>
                                                   <dl class="- topic/dl dl" css:display="block">
                                                   <dt class="- topic/dt dt dlterm"
@@ -3501,8 +3539,7 @@
                                                   css:margin-right="3em" css:margin-top="0.5em">To
                                                   enable a specific service, for example, to enable
                                                   HTTPS services:
-                                                  <pre class="+ topic/pre pr-d/codeblock pre codeblock" css:background-color="rgb(238 , 238 , 238)" css:display="block" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="0.5em" css:margin-left="0.5em" css:margin-right="0" css:margin-top="0.5em" css:max-height="600px" css:oxy-pdf-tag-type="Code" css:padding-bottom="0.5em" css:padding-left="0.5em" css:padding-right="0.5em" css:padding-top="0.5em" css:white-space="pre-wrap" xml:space="preserve"><code css:display="inline" css:font-family="monospace" css:font-size="smaller">
-                            python /usr/local/storediq/bin/util/port_handler.pyc -e 'PROD-https'     
+                                                  <pre class="+ topic/pre pr-d/codeblock pre codeblock" css:background-color="rgb(238 , 238 , 238)" css:display="block" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="0.5em" css:margin-left="0.5em" css:margin-right="0" css:margin-top="0.5em" css:max-height="600px" css:oxy-pdf-tag-type="Code" css:padding-bottom="0.5em" css:padding-left="0.5em" css:padding-right="0.5em" css:padding-top="0.5em" css:white-space="pre-wrap" xml:space="preserve"><code css:display="inline" css:font-family="monospace" css:font-size="smaller">python /usr/local/storediq/bin/util/port_handler.pyc -e 'PROD-https'     
                         </code></pre>
                                                   </dd>
                                                   <dt class="- topic/dt dt dlterm"
@@ -4249,15 +4286,13 @@
                                                   css:margin-right="0" css:margin-top="0.5em">In
                                                   iptables, the following firewall and chain rules
                                                   are defined:</p>
-                                                  <pre class="+ topic/pre pr-d/codeblock pre codeblock" css:background-color="rgb(238 , 238 , 238)" css:display="block" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="0.5em" css:margin-left="0.5em" css:margin-right="0" css:margin-top="0.5em" css:max-height="600px" css:oxy-pdf-tag-type="Code" css:padding-bottom="0.5em" css:padding-left="0.5em" css:padding-right="0.5em" css:padding-top="0.5em" css:white-space="pre-wrap" xml:space="preserve"><code css:display="inline" css:font-family="monospace" css:font-size="smaller">
-                'PROD-transport':['5434','8765','7766','11102','11103','11104'],            
+                                                  <pre class="+ topic/pre pr-d/codeblock pre codeblock" css:background-color="rgb(238 , 238 , 238)" css:display="block" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="0.5em" css:margin-left="0.5em" css:margin-right="0" css:margin-top="0.5em" css:max-height="600px" css:oxy-pdf-tag-type="Code" css:padding-bottom="0.5em" css:padding-left="0.5em" css:padding-right="0.5em" css:padding-top="0.5em" css:white-space="pre-wrap" xml:space="preserve"><code css:display="inline" css:font-family="monospace" css:font-size="smaller">'PROD-transport':['5434','8765','7766','11102','11103','11104'],            
                     'PROD-https':['443'],
                     'PROD-ssh':['22'],            
                     'PROD-web':['80'],            
                     'PROD-postgres':[’5432’]
             </code></pre>
-                                                  <pre class="+ topic/pre pr-d/codeblock pre codeblock" css:background-color="rgb(238 , 238 , 238)" css:display="block" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="0.5em" css:margin-left="0.5em" css:margin-right="0" css:margin-top="0.5em" css:max-height="600px" css:oxy-pdf-tag-type="Code" css:padding-bottom="0.5em" css:padding-left="0.5em" css:padding-right="0.5em" css:padding-top="0.5em" css:white-space="pre-wrap" xml:space="preserve"><code css:display="inline" css:font-family="monospace" css:font-size="smaller">
-                'desktop' service:            
+                                                  <pre class="+ topic/pre pr-d/codeblock pre codeblock" css:background-color="rgb(238 , 238 , 238)" css:display="block" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="0.5em" css:margin-left="0.5em" css:margin-right="0" css:margin-top="0.5em" css:max-height="600px" css:oxy-pdf-tag-type="Code" css:padding-bottom="0.5em" css:padding-left="0.5em" css:padding-right="0.5em" css:padding-top="0.5em" css:white-space="pre-wrap" xml:space="preserve"><code css:display="inline" css:font-family="monospace" css:font-size="smaller">'desktop' service:            
                         'PROD-broker':['21000'],            
                         'PROD-collectionsvc':['21300:21399'],            
                         'PROD-desktopupgrade':['21004'],            
@@ -4380,8 +4415,7 @@
                                                   <div
                                                   class="- topic/itemgroup task/info itemgroup info"
                                                   css:display="block">
-                                                  <pre class="+ topic/pre pr-d/codeblock pre codeblock" css:background-color="rgb(238 , 238 , 238)" css:display="block" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="0.5em" css:margin-left="0.5em" css:margin-right="0" css:margin-top="0.5em" css:max-height="600px" css:oxy-pdf-tag-type="Code" css:padding-bottom="0.5em" css:padding-left="0.5em" css:padding-right="0.5em" css:padding-top="0.5em" css:white-space="pre-wrap" xml:space="preserve"><code css:display="inline" css:font-family="monospace" css:font-size="smaller">
-                        python /usr/local/storediq/bin/util/port_handler.pyc -e desktop
+                                                  <pre class="+ topic/pre pr-d/codeblock pre codeblock" css:background-color="rgb(238 , 238 , 238)" css:display="block" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="0.5em" css:margin-left="0.5em" css:margin-right="0" css:margin-top="0.5em" css:max-height="600px" css:oxy-pdf-tag-type="Code" css:padding-bottom="0.5em" css:padding-left="0.5em" css:padding-right="0.5em" css:padding-top="0.5em" css:white-space="pre-wrap" xml:space="preserve"><code css:display="inline" css:font-family="monospace" css:font-size="smaller">python /usr/local/storediq/bin/util/port_handler.pyc -e desktop
                     </code></pre>
                                                   </div>
                                                   </li>
@@ -4756,19 +4790,19 @@
                                                 following format, where new metric records
                                                 areappended to the end of the file:</p>
                                             <pre class="+ topic/pre pr-d/codeblock pre codeblock" css:background-color="rgb(238 , 238 , 238)" css:display="block" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="0.5em" css:margin-left="0.5em" css:margin-right="0" css:margin-top="0.5em" css:max-height="600px" css:oxy-pdf-tag-type="Code" css:padding-bottom="0.5em" css:padding-left="0.5em" css:padding-right="0.5em" css:padding-top="0.5em" css:white-space="pre-wrap" xml:space="preserve"><code css:display="inline" css:font-family="monospace" css:font-size="smaller">
-            &lt;SchemaVersion&gt;2.1.1&lt;/SchemaVersion&gt;&lt;SoftwareIdentity&gt;        
-            &lt;PersistentId&gt;cb98e260a2a14872902578de1b8e2016&lt;/PersistentId&gt;        
-            &lt;Name&gt;IBM StoredIQ Data Assessment&lt;/Name&gt;        
-            &lt;InstanceId&gt;/var/siq/ilmt&lt;/InstanceId&gt;
-            &lt;/SoftwareIdentity&gt;&lt;Metric logTime="2019-01-25T15:58:26+00:00"&gt;        
-            &lt;Type&gt;TERABYTE&lt;/Type&gt;        
-            &lt;SubType&gt;All Data Objects&lt;/SubType&gt;        
-            &lt;Value&gt;0.005&lt;/Value&gt;        
-            &lt;Period&gt;                
-            &lt;StartTime&gt;2019-01-25T15:58:26+00:00&lt;/StartTime&gt;                
-            &lt;EndTime&gt;2019-01-25T15:58:26+00:00&lt;/EndTime&gt;        
-            &lt;/Period&gt;
-            &lt;/Metric&gt;
+&lt;SchemaVersion&gt;2.1.1&lt;/SchemaVersion&gt;&lt;SoftwareIdentity&gt;        
+&lt;PersistentId&gt;cb98e260a2a14872902578de1b8e2016&lt;/PersistentId&gt;        
+&lt;Name&gt;IBM StoredIQ Data Assessment&lt;/Name&gt;        
+&lt;InstanceId&gt;/var/siq/ilmt&lt;/InstanceId&gt;
+&lt;/SoftwareIdentity&gt;&lt;Metric logTime="2019-01-25T15:58:26+00:00"&gt;        
+&lt;Type&gt;TERABYTE&lt;/Type&gt;        
+&lt;SubType&gt;All Data Objects&lt;/SubType&gt;        
+&lt;Value&gt;0.005&lt;/Value&gt;        
+&lt;Period&gt;                
+&lt;StartTime&gt;2019-01-25T15:58:26+00:00&lt;/StartTime&gt;                
+&lt;EndTime&gt;2019-01-25T15:58:26+00:00&lt;/EndTime&gt;        
+&lt;/Period&gt;
+&lt;/Metric&gt;
         </code></pre>
                                             <section class="- topic/section section"
                                                 css:display="block" css:margin-bottom="1em"
@@ -6305,6 +6339,220 @@
                                                 instructions in “Configuring IBM StoredIQ” on
                                                 page22.</section>
                                         </div>
+                                    </article>
+                                </article>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </body>
+        </html>
+    </css:page-sequence>
+    <css:page-sequence xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter">
+        <html css:counter-reset=" page 1" css:display="block"
+            css:font-family="serif, Times, Times New Roman, Symbol, MingLiU, MS Mincho, Arial Unicode MS"
+            css:font-size="12px"
+            xtrf="file:/C:/Users/abarrett/Documents/workspace/publication/IBM-Guide/MASTER_IBM-Guide.ditamap">
+            <body class="wh_topic_page" css:display="block" css:font-size="11.5pt"
+                css:margin-left="auto" css:margin-right="auto">
+                <div class="wh_content_area" css:display="block">
+                    <div class="wh_topic_body" css:display="block">
+                        <div class="wh_topic_content" css:display="block">
+                            <div xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+                                cascade="merge" class="- map/map map"
+                                css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0"
+                                css:display="block" ditaarch:ditaarchversion="1.3"
+                                domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)"
+                                lang="en" xml:lang="en">
+                                <article aria-labelledby="ariaid-title27" break-before="true"
+                                    class="- topic/topic concept/concept glossgroup/glossgroup topic concept glossgroup nested0"
+                                    css:display="block" css:margin-top="1em"
+                                    css:oxy-pdf-tag-type="Sect" id="unique_27" is-chapter="true"
+                                    nd:nd-id="glossary" oid="glossary"
+                                    topicrefclass="- map/topicref ">
+                                    <h1 class="- topic/title title topictitle1"
+                                        css:bookmark-level="1" css:display="block"
+                                        css:font-size="2em" css:margin-bottom="1em"
+                                        css:margin-left="0" css:margin-right="0" css:margin-top="0"
+                                        css:oxy-pdf-tag-type="H1" css:page-break-after="avoid"
+                                        id="ariaid-title27">
+                                        <css:string-set name="chaptertitle">
+                                            <css:text> | </css:text>
+                                            <css:counter name="chapter" value="5"/>
+                                            <css:text> - </css:text>
+                                            <css:content source="text"/>
+                                        </css:string-set>
+                                        <css:bookmark-label>
+                                            <css:content source="before"/>
+                                            <css:content source="text"/>
+                                        </css:bookmark-label>
+                                        <css:before css:display="inline">
+                                            <css:text>Chapter </css:text>
+                                            <css:counter name="chapter" value="5"/>
+                                            <css:text>. </css:text>
+                                        </css:before>
+                                    </h1>
+                                    <article aria-labelledby="ariaid-title28"
+                                        class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_28" nd:nd-id="gateway" oid="gateway">
+                                        <h2
+                                            class="- topic/title concept/title glossentry/glossterm title glossterm topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title28"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Gateway</h2>
+                                        <div
+                                            class="- topic/abstract concept/abstract glossentry/glossdef abstract glossdef"
+                                            css:display="block">text</div>
+                                    </article>
+                                    <article aria-labelledby="ariaid-title29"
+                                        class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_29" nd:nd-id="data_Server" oid="data_Server">
+                                        <h2
+                                            class="- topic/title concept/title glossentry/glossterm title glossterm topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title29"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Data Servers</h2>
+                                        <div
+                                            class="- topic/abstract concept/abstract glossentry/glossdef abstract glossdef"
+                                            css:display="block">text</div>
+                                    </article>
+                                    <article aria-labelledby="ariaid-title30"
+                                        class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_30" nd:nd-id="app_stack" oid="app_stack">
+                                        <h2
+                                            class="- topic/title concept/title glossentry/glossterm title glossterm topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title30"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Application stack</h2>
+                                        <div
+                                            class="- topic/abstract concept/abstract glossentry/glossdef abstract glossdef"
+                                            css:display="block">text</div>
+                                    </article>
+                                    <article aria-labelledby="ariaid-title31"
+                                        class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_31" nd:nd-id="classic" oid="classic">
+                                        <h2
+                                            class="- topic/title concept/title glossentry/glossterm title glossterm topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title31"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>DataServer - Classic</h2>
+                                        <div
+                                            class="- topic/abstract concept/abstract glossentry/glossdef abstract glossdef"
+                                            css:display="block">text</div>
+                                    </article>
+                                    <article aria-labelledby="ariaid-title32"
+                                        class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_32" nd:nd-id="dist" oid="dist">
+                                        <h2
+                                            class="- topic/title concept/title glossentry/glossterm title glossterm topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title32"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>DataServer - Distributed</h2>
+                                        <div
+                                            class="- topic/abstract concept/abstract glossentry/glossdef abstract glossdef"
+                                            css:display="block">text</div>
+                                    </article>
+                                    <article aria-labelledby="ariaid-title33"
+                                        class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_33" nd:nd-id="auto" oid="auto">
+                                        <h2
+                                            class="- topic/title concept/title glossentry/glossterm title glossterm topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title33"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Auto-classification</h2>
+                                        <div
+                                            class="- topic/abstract concept/abstract glossentry/glossdef abstract glossdef"
+                                            css:display="block">text</div>
+                                    </article>
+                                    <article aria-labelledby="ariaid-title34"
+                                        class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_34" nd:nd-id="cartridges" oid="cartridges">
+                                        <h2
+                                            class="- topic/title concept/title glossentry/glossterm title glossterm topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title34"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Cartridges</h2>
+                                        <div
+                                            class="- topic/abstract concept/abstract glossentry/glossdef abstract glossdef"
+                                            css:display="block">text</div>
+                                    </article>
+                                    <article aria-labelledby="ariaid-title35"
+                                        class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_35" nd:nd-id="connector" oid="connector">
+                                        <h2
+                                            class="- topic/title concept/title glossentry/glossterm title glossterm topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title35"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Connector API SDK</h2>
+                                        <div
+                                            class="- topic/abstract concept/abstract glossentry/glossdef abstract glossdef"
+                                            css:display="block">text</div>
+                                    </article>
+                                    <article aria-labelledby="ariaid-title36"
+                                        class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_36" nd:nd-id="insights" oid="insights">
+                                        <h2
+                                            class="- topic/title concept/title glossentry/glossterm title glossterm topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title36"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>IBM StoredIQ Insights</h2>
+                                        <div
+                                            class="- topic/abstract concept/abstract glossentry/glossdef abstract glossdef"
+                                            css:display="block">text</div>
                                     </article>
                                 </article>
                             </div>

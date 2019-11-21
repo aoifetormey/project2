@@ -8,6 +8,8 @@
     <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="ibm_storediq_components"><resourceid appid="ibm_storediq_components" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">IBM StoredIQ components</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">         The IBM StoredIQ solution consists of these components: the application stack, the gateway, the data server, and optionally the Elasticsearch cluster.     </shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="solution_components"><resourceid appid="solution_components" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Solution components</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">IBM StoredIQ provides three solution components: the gateway, data servers, and application stack (AppStack).</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="applications_storediq"><resourceid appid="applications_storediq" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Applications of IBM StoredIQ </navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">         IBM StoredIQ provides interface applications that help fulfill its solution goals.     </shortdesc></topicmeta></topicref></topicref>
     <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="planning_for_deployment"><resourceid appid="planning_for_deployment" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Planning for deployment </navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_8" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="ova_config"><resourceid appid="ova_config" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Open Virtual Appliance (OVA) configuration requirements</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">IBM StoredIQ is deployed as virtual appliances and is supported in VMware ESXi 5.0 (all fix pack levels) or VMware ESXi 6.0 (all fix pack levels) environments. You must have a virtual infrastructure that meets the IBM StoredIQ hardware requirements. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="network_port_reqs"><resourceid appid="network_port_reqs" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Network and port requirements</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">For proper communication, the IBM StoredIQ components must be able to connect to each other.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_10" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="tcp_port_ranges"><resourceid appid="tcp_port_ranges" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">TCP: port ranges for the firewall</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">To ensure the network access for desktop volumes, the following port ranges must be open through a firewall.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_11" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="default_open_ports"><resourceid appid="default_open_ports" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Default open ports</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The following ports are open by default on the IBM StoredIQ.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_12" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="ssh_port22"><resourceid appid="ssh_port22" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">SSH port 22</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_13" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="open_ports_appstack"><resourceid appid="open_ports_appstack" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">Default open ports on the AppStack</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_14" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="open_ports_data_server"><resourceid appid="open_ports_data_server" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Default open ports on the IBM StoredIQ data server</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_15" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="enable_ports_services"><resourceid appid="enable_ports_services" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">Enable or disable ports or services on the IBM StoredIQ data server</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_16" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="open_ports_elasticsearch"><resourceid appid="open_ports_elasticsearch" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_16" class="- topic/navtitle ">Default open ports on the nodes in the Elasticsearch cluster</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_17" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="open_ports_gateway"><resourceid appid="open_ports_gateway" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_17" class="- topic/navtitle ">Default open ports on the IBM StoredIQ gateway</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_18" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="supported_chain_gateway"><resourceid appid="supported_chain_gateway" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_18" class="- topic/navtitle ">Supported chain and rules on the IBM StoredIQ gateway</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_19" type="task"><topicmeta class="- map/topicmeta " data-topic-id="open_ports_client_data_server"><resourceid appid="open_ports_client_data_server" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_19" class="- topic/navtitle ">Open ports for desktop client access to the data server</navtitle><?ditaot gentext?></topicmeta></topicref></topicref></topicref><topicref class="- map/topicref " href="#unique_20" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="environment_sizing"><resourceid appid="environment_sizing" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_20" class="- topic/navtitle ">Environment sizing guidelines</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">         To size an environment precisely, you must understand the factors such as harvest frequency, complexityof the source, and use case scenarios that drive application use and action execution.     </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_21" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="stack_provisioning_prereq"><resourceid appid="stack_provisioning_prereq" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_21" class="- topic/navtitle ">Stack-provisioning prerequisites</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Before a deployment, verify that you meet these prerequisites.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_22" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="license_usage_metrics"><resourceid appid="license_usage_metrics" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_22" class="- topic/navtitle ">License usage metrics</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_23" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="security"><resourceid appid="security" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_23" class="- topic/navtitle ">Security</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Plan and implement specific security measures to protect the application and the data it manages,especially when you deploy IBM StoredIQ into sensitive environments.</shortdesc></topicmeta></topicref></topicref>
     <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_24" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="deploying"><resourceid appid="deploying" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_24" class="- topic/navtitle ">Deploying IBM StoredIQ</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">IBM StoredIQ is a virtual appliance that you deploy and configure in a VMWare virtual host environment.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_25" type="task"><topicmeta class="- map/topicmeta " data-topic-id="deploy_virtual_appliances"><resourceid appid="deploy_virtual_appliances" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_25" class="- topic/navtitle ">Deploying the virtual appliances</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">     </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_26" type="task"><topicmeta class="- map/topicmeta " data-topic-id="deploy_on_hyperv"><resourceid appid="deploy_on_hyperv" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_26" class="- topic/navtitle ">Deploying IBM StoredIQ on Microsoft Hyper-V</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">As an alternative to installing on an ESX server, the IBM StoredIQ gateway, data server, and applicationstack can be installed on Microsoft Hyper-V. This option is not supported for the Elasticsearch virtualappliance.</shortdesc></topicmeta></topicref></topicref>
+    <?ditaot gentext?><?ditaot genshortdesc?>
+    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_27" type="glossgroup"><topicmeta class="- map/topicmeta " data-topic-id="glossary"><resourceid appid="glossary" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_27" class="- topic/navtitle "/><?ditaot gentext?></topicmeta></topicref>
     
         
     
@@ -515,8 +517,7 @@
     <refbody class="- topic/body        reference/refbody ">
         <section class="- topic/section ">
             <p class="- topic/p ">To manage ports, you can use the /usr/local/storediq/bin/util/port_handler.pyc script withthe appropriate parameter:</p>
-            <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve">
-                python /usr/local/storediq/bin/util/port_handler.pyc -<i class="+ topic/ph hi-d/i ">parameter</i>
+            <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve">python /usr/local/storediq/bin/util/port_handler.pyc -<i class="+ topic/ph hi-d/i ">parameter</i>
             </codeblock>
             <dl class="- topic/dl ">
                 <dlentry class="- topic/dlentry ">
@@ -536,8 +537,7 @@
                 <dlentry class="- topic/dlentry ">
                     <dt class="- topic/dt ">-e 'service_name'</dt>
                     <dd class="- topic/dd ">To enable a specific service, for example, to enable HTTPS services:
-                        <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve">
-                            python /usr/local/storediq/bin/util/port_handler.pyc -e 'PROD-https'     
+                        <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve">python /usr/local/storediq/bin/util/port_handler.pyc -e 'PROD-https'     
                         </codeblock>
                     </dd>
                 </dlentry>
@@ -668,15 +668,13 @@
     <refbody class="- topic/body        reference/refbody "> 
         <section class="- topic/section ">
             <p class="- topic/p ">In iptables, the following firewall and chain rules are defined:</p>
-            <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve">
-                'PROD-transport':['5434','8765','7766','11102','11103','11104'],            
+            <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve">'PROD-transport':['5434','8765','7766','11102','11103','11104'],            
                     'PROD-https':['443'],
                     'PROD-ssh':['22'],            
                     'PROD-web':['80'],            
                     'PROD-postgres':[’5432’]
             </codeblock>
-            <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve">
-                'desktop' service:            
+            <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve">'desktop' service:            
                         'PROD-broker':['21000'],            
                         'PROD-collectionsvc':['21300:21399'],            
                         'PROD-desktopupgrade':['21004'],            
@@ -719,8 +717,7 @@
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd ">Run the following command:</cmd>
                 <info class="- topic/itemgroup task/info ">
-                    <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve">
-                        python /usr/local/storediq/bin/util/port_handler.pyc -e desktop
+                    <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve">python /usr/local/storediq/bin/util/port_handler.pyc -e desktop
                     </codeblock>
                 </info>
             </step>
@@ -802,19 +799,19 @@
         <p class="- topic/p ">By default, the license program retrieves the size of the <b class="+ topic/ph hi-d/b ">All Data Objects</b> infoset in terabytes once per dayand writes this information to the /var/siq/ilmt/3cd1469042433ee7010fe09f661dc67b.slmtagfile. The .slmtag file can store information up to a maximum file size of 1 MB, after which the file isarchived and a new log file is created. A maximum of 10 log files are kept.</p>
         <p class="- topic/p ">The .slmtag file contains usage information in the following format, where new metric records areappended to the end of the file:</p>
         <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve">
-            &lt;SchemaVersion&gt;2.1.1&lt;/SchemaVersion&gt;&lt;SoftwareIdentity&gt;        
-            &lt;PersistentId&gt;cb98e260a2a14872902578de1b8e2016&lt;/PersistentId&gt;        
-            &lt;Name&gt;IBM StoredIQ Data Assessment&lt;/Name&gt;        
-            &lt;InstanceId&gt;/var/siq/ilmt&lt;/InstanceId&gt;
-            &lt;/SoftwareIdentity&gt;&lt;Metric logTime="2019-01-25T15:58:26+00:00"&gt;        
-            &lt;Type&gt;TERABYTE&lt;/Type&gt;        
-            &lt;SubType&gt;All Data Objects&lt;/SubType&gt;        
-            &lt;Value&gt;0.005&lt;/Value&gt;        
-            &lt;Period&gt;                
-            &lt;StartTime&gt;2019-01-25T15:58:26+00:00&lt;/StartTime&gt;                
-            &lt;EndTime&gt;2019-01-25T15:58:26+00:00&lt;/EndTime&gt;        
-            &lt;/Period&gt;
-            &lt;/Metric&gt;
+&lt;SchemaVersion&gt;2.1.1&lt;/SchemaVersion&gt;&lt;SoftwareIdentity&gt;        
+&lt;PersistentId&gt;cb98e260a2a14872902578de1b8e2016&lt;/PersistentId&gt;        
+&lt;Name&gt;IBM StoredIQ Data Assessment&lt;/Name&gt;        
+&lt;InstanceId&gt;/var/siq/ilmt&lt;/InstanceId&gt;
+&lt;/SoftwareIdentity&gt;&lt;Metric logTime="2019-01-25T15:58:26+00:00"&gt;        
+&lt;Type&gt;TERABYTE&lt;/Type&gt;        
+&lt;SubType&gt;All Data Objects&lt;/SubType&gt;        
+&lt;Value&gt;0.005&lt;/Value&gt;        
+&lt;Period&gt;                
+&lt;StartTime&gt;2019-01-25T15:58:26+00:00&lt;/StartTime&gt;                
+&lt;EndTime&gt;2019-01-25T15:58:26+00:00&lt;/EndTime&gt;        
+&lt;/Period&gt;
+&lt;/Metric&gt;
         </codeblock>
         <section class="- topic/section ">
             <title class="- topic/title ">Integration with IBM License Metric Too</title>
@@ -1136,4 +1133,42 @@
         </steps>
         <postreq class="- topic/section task/postreq ">Complete the installation process by following the instructions in “Configuring IBM StoredIQ” on page22.</postreq>
     </taskbody>
-</task></concept></map>
+</task></concept><glossgroup xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic concept/concept glossgroup/glossgroup " id="unique_27" topicrefclass="- map/topicref " nd:nd-id="glossary" oid="glossary">
+    <title class="- topic/title "/>
+    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_28" nd:nd-id="gateway" oid="gateway">
+        <glossterm class="- topic/title concept/title glossentry/glossterm ">Gateway</glossterm>
+        <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">text</glossdef>
+    </glossentry>
+    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_29" nd:nd-id="data_Server" oid="data_Server">
+        <glossterm class="- topic/title concept/title glossentry/glossterm ">Data Servers</glossterm>
+        <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">text</glossdef>
+    </glossentry>
+    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_30" nd:nd-id="app_stack" oid="app_stack">
+        <glossterm class="- topic/title concept/title glossentry/glossterm ">Application stack</glossterm>
+        <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">text</glossdef>
+    </glossentry>
+    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_31" nd:nd-id="classic" oid="classic">
+        <glossterm class="- topic/title concept/title glossentry/glossterm ">DataServer - Classic</glossterm>
+        <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">text</glossdef>
+    </glossentry>
+    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_32" nd:nd-id="dist" oid="dist">
+        <glossterm class="- topic/title concept/title glossentry/glossterm ">DataServer - Distributed</glossterm>
+        <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">text</glossdef>
+    </glossentry>
+    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_33" nd:nd-id="auto" oid="auto">
+        <glossterm class="- topic/title concept/title glossentry/glossterm ">Auto-classification</glossterm>
+        <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">text</glossdef>
+    </glossentry>
+    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_34" nd:nd-id="cartridges" oid="cartridges">
+        <glossterm class="- topic/title concept/title glossentry/glossterm ">Cartridges</glossterm>
+        <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">text</glossdef>
+    </glossentry>
+    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_35" nd:nd-id="connector" oid="connector">
+        <glossterm class="- topic/title concept/title glossentry/glossterm ">Connector API SDK</glossterm>
+        <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">text</glossdef>
+    </glossentry>
+    <glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_36" nd:nd-id="insights" oid="insights">
+        <glossterm class="- topic/title concept/title glossentry/glossterm ">IBM StoredIQ Insights</glossterm>
+        <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">text</glossdef>
+    </glossentry>
+</glossgroup></map>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="include_images">
+    <title></title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <image href="../../resources/images/data_server_user_interface.PNG" id="dataserver"></image>
+        <image href="../../resources/images/storediq_administrator.PNG" id="administrator"></image>
+        <image href="../../resources/images/storediq_insights.PNG" id="insights"></image>
+        <image href="../../resources/images/storediq_policymanager.PNG" id="policymanager"></image>
+        <image href="../../resources/images/storediq_workbench.PNG" id="workbench"></image>
+    </conbody>
+</concept>

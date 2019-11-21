@@ -36,6 +36,8 @@
         <topicref href="topics/tasks/deploy_virtual_appliances.dita"/>
         <topicref href="topics/tasks/deploy_on_hyperv.dita"/>
     </topicref>
+    <topicref href="resources.ditamap" format="ditamap"/>
+    <topicref href="topics/glossary/glossary.dita" navtitle="Glossary"/>
     
         
     
