@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>IBM StoredIQ
-        <sub><i>Deployment and Configuration Guide</i></sub>
-    </title>
+    <title>Project 2 - XML in Technical Communication</title>
+    <topicref href="topics/concepts/CoverTitle.dita" outputclass="before-toc" toc="no">
+        <topicref href="topics/references/coverpage.dita" outputclass="before-toc" toc="no"/>    
+    </topicref>
+    
     <topicref href="topics/concepts/about_this_publication.dita">
         <topicref href="topics/concepts/ibm_storediq_product_library.dita"/>
         <topicref href="topics/concepts/Contact_cust_support.dita"/>
@@ -38,6 +40,9 @@
     </topicref>
     <topicref href="resources.ditamap" format="ditamap"/>
     <topicref href="topics/glossary/glossary.dita" navtitle="Glossary"/>
+    <mapref href="index.ditamap" format="ditamap"/>
+    
+
     
         
     

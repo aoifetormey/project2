@@ -3,6 +3,13 @@
 <concept id="security">
     <title>Security</title>
     <shortdesc>Plan and implement specific security measures to protect the application and the data it manages,especially when you deploy IBM StoredIQ into sensitive environments.</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>security<index-see>deployment</index-see></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
     <conbody>
         <p>IBM StoredIQ keeps your data secure through encryption, security hardening, and auditing.</p>
         <section>

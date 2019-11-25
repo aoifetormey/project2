@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="coverpage">
+    <title>Notes:</title>
+    <shortdesc>The following is a reference of the elements used to create this document.</shortdesc>
+    <refbody>
+        <table>
+            <tgroup cols="2" rowsep="1">
+                <tbody>
+                    <row>
+                        <entry>Hierarchical Links</entry>
+                        <entry>Numerous topics are included in the master map of this document in a hierarchical structure.</entry>
+                    </row>
+                    <row>
+                        <entry>Cross references</entry>
+                        <entry>Images are referenced in <xref href="../concepts/applications_storediq.dita">this section</xref> using a second map and conkeyref.</entry>
+                    </row>
+                    <row>
+                        <entry>Links</entry>
+                        <entry> There are many external and internal links added using xref.</entry>
+                    </row>
+                    <row>
+                        <entry>Glossary</entry>
+                        <entry>The required <xref href="../glossary/glossary.dita">Glossary</xref> is included at the end of this document.</entry>
+                    </row>
+                    <row>
+                        <entry>Index</entry>
+                        <entry>Added index functionality which includes nested entries, synonymous terms and conkeyref.</entry>
+                    </row>
+                    <row>
+                        <entry>Filtering</entry>
+                        <entry>The audience of the following sections has been set to 'Expert', so can be excluded when publishing:
+                            <p>Environment sizing guidelines, Network and port requirements</p>
+                        <p>The product has been set on the following topic to filter it:</p>
+                            <p>Deploying IBM StoredIQ on Microsoft Hyper-V</p></entry>
+                    </row>
+                    <row>
+                        <entry>Flagging</entry>
+                        <entry>The following content will be flagged in purpe: Solution components, Planning for deployment</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

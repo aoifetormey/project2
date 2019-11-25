@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
-<task id="deploy_on_hyperv">
+<task id="deploy_on_hyperv" product="hyper-v">
     <title>Deploying IBM StoredIQ on Microsoft Hyper-V</title>
     <shortdesc>As an alternative to installing on an ESX server, the IBM StoredIQ gateway, data server, and applicationstack can be installed on Microsoft Hyper-V. This option is not supported for the Elasticsearch virtualappliance.</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>install<indexterm>Hyper-v</indexterm></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
     <taskbody>
         <context>
             <p>Installing IBM StoredIQ on Microsoft Hyper-V requires the use of third-party software. For the proceduredescribed here, the following software prerequisites must be met:</p>

@@ -4,6 +4,11 @@
     <title>Deploying the virtual appliances</title>
     <shortdesc>
     </shortdesc>
+    <prolog>
+        <metadata>
+            <keywords conkeyref="indexKey/index_deploy"></keywords>
+        </metadata>
+    </prolog>
     <taskbody>
         <context>
             <p>Use VMware vSphere Client to deploy the virtual appliances to an ESX server. Deploy OVAs for thegateway, the data server, and the application stack, preferably in this order. If an Elasticsearch cluster isalso being deployed, those OVAs must be deployed first.</p>

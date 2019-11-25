@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="planning_for_deployment">
+<concept id="planning_for_deployment" audience="novice">
     <title>Planning for deployment
     </title>
+    <prolog>
+        <metadata>
+            <keywords id="index_deploy">
+                <indexterm>
+                    deployment
+                    <indexterm>generate reports</indexterm>
+                </indexterm>
+            </keywords>
+            <keywords conkeyref="virtualKey/index_virtual"></keywords>
+           
+        </metadata>
+    </prolog>
     <conbody>
         <p>
             When you plan a deployment of IBM StoredIQ, evaluate several infrastructure considerations. 

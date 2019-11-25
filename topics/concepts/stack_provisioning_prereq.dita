@@ -3,6 +3,13 @@
 <concept id="stack_provisioning_prereq">
     <title>Stack-provisioning prerequisites</title>
     <shortdesc>Before a deployment, verify that you meet these prerequisites.</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>stack-provisioning<index-see>deployment</index-see></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
     <conbody>
         <ul>
             <li>At least one physical server with sufficient processor, RAM, and hard disk configuration for the plannedmanagement project.</li>
