@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="open_ports_appstack">
-    <title>Default open ports on the AppStack</title>
+    <title><b>Default open ports on the AppStack</b></title>
     <refbody>
         <table>
             <tgroup cols="2" colsep="1" rowsep="1">

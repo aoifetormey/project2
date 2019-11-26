@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="open_ports_elasticsearch">
-    <title>Default open ports on the nodes in the Elasticsearch cluster</title>
+    <title><b>Default open ports on the nodes in the Elasticsearch cluster</b></title>
     <refbody> 
         <table pgwide="1">
             <tgroup cols="3" colsep="1" rowsep="1">

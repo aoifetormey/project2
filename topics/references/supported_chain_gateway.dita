@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="supported_chain_gateway">
-    <title>Supported chain and rules on the IBM StoredIQ gateway</title>
+    <title><b>Supported chain and rules on the IBM StoredIQ gateway</b></title>
     <refbody> 
         <section>
             <p>In iptables, the following firewall and chain rules are defined:</p>

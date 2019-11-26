@@ -44,7 +44,7 @@
         </section>
         <section>
             <title>Access control</title>
-            <p>The following administrative accounts are required. The builder and siqadmin accounts are IBMStoredIQ-specific accounts. For more information about these accounts, see <xref href="#security">“Default user accounts”</xref> onpage 17.</p>
+            <p>The following administrative accounts are required. The builder and siqadmin accounts are IBMStoredIQ-specific accounts. For more information about these accounts, see <xref href="#security">“Default user accounts”</xref>.</p>
             <dl>
                 <dlentry>
                     <dt><codeph>root</codeph> and <codeph>builder</codeph> accounts on the Elasticsearch cluster nodes</dt>

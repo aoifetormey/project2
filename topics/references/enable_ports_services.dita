@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="enable_ports_services">
-    <title>Enable or disable ports or services on the IBM StoredIQ data server</title>
+    <title><b>Enable or disable ports or services on the IBM StoredIQ data server</b></title>
     <refbody>
         <section>
             <p>To manage ports, you can use the /usr/local/storediq/bin/util/port_handler.pyc script withthe appropriate parameter:</p>

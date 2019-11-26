@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>Project 2 - XML in Technical Communication</title>
-    <topicref href="topics/concepts/CoverTitle.dita" outputclass="before-toc" toc="no">
-        <topicref href="topics/references/coverpage.dita" outputclass="before-toc" toc="no"/>    
-    </topicref>
-    
+    <title>
+        IBM StoredIQ
+        <i>Deployment and Configuration Guide</i>
+    </title>
+    <topicmeta>
+        <author>Aoife Tormey R00194051</author>
+        <copyright>
+            <copyryear year="2009"/>
+            <copyrholder>Copyright International Business Machines Corporation</copyrholder>
+        </copyright>
+    </topicmeta>
+    <topicref href="topics/references/coverpage.dita" outputclass="before-toc" toc="no"/>    
     <topicref href="topics/concepts/about_this_publication.dita">
         <topicref href="topics/concepts/ibm_storediq_product_library.dita"/>
         <topicref href="topics/concepts/Contact_cust_support.dita"/>

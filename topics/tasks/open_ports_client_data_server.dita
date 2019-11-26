@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="open_ports_client_data_server">
-    <title>Open ports for desktop client access to the data server</title>
+    <title><b>Open ports for desktop client access to the data server</b></title>
     <taskbody>
         <context>
             To open ports for desktop client access to the data server on OVA deployed systems, follow these steps:

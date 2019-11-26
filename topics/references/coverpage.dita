@@ -5,7 +5,7 @@
     <shortdesc>The following is a reference of the elements used to create this document.</shortdesc>
     <refbody>
         <table>
-            <tgroup cols="2" rowsep="1">
+            <tgroup cols="2" colsep="1" rowsep="1">
                 <tbody>
                     <row>
                         <entry>Hierarchical Links</entry>
@@ -36,7 +36,11 @@
                     </row>
                     <row>
                         <entry>Flagging</entry>
-                        <entry>The following content will be flagged in purpe: Solution components, Planning for deployment</entry>
+                        <entry>The following content will be flagged in purple to highlight for a novice audience: Solution components, Planning for deployment</entry>
+                    </row>
+                    <row>
+                        <entry>Cover page</entry>
+                        <entry>When I tried to put this topic at the start of the document, I got a blank first page. Adding a title to the main map file was the only way I could rectify this.</entry>
                     </row>
                 </tbody>
             </tgroup>
